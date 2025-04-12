@@ -13,7 +13,7 @@ title                    : "Yaolin Guo Ph.D."
 title_separator          : "-"
 name                     : &name "Yaolin Guo"
 description              : &description "personal description"
-url                      : yaolinguo.github.io
+url                      : "yaolinguo.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaolinguo/yaolinguo.github.io"
 
