@@ -22,9 +22,9 @@ repository               : "yaolinguo/yaolinguo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/yaolinguo.jpg"
+  avatar           : "yaolinguo.JPG"
   name             : "Yaolin Guo"
-  pronouns         : # example: "he/his"  
+  pronouns         : "he/his"  
   bio              : "Plant Ecologist and data scientist"
   location         : "Baton Rouge, LA"
   employer         : "Louisiana State University"
