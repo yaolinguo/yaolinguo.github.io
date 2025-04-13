@@ -20,11 +20,14 @@
 <!-- end custom head snippets -->
 
 <style>
-  .masthead__menu {
+  /* 移除可能影响导航整体的 margin 设置 */
+  /* .masthead__menu {
     margin-left: 2.7rem;
-  }
+  } */
   
+  /* 针对标题那一项，用 !important 来确保优先级 */
   .masthead__menu-item--lg.persist {
     margin-left: -10rem !important;
+    border: 2px solid red; /* 仅作测试，看是否加了红色边框 */
   }
 </style>
