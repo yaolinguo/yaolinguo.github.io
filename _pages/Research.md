@@ -1,6 +1,8 @@
-layout: single
+---
 permalink: /Research/
 title: "My Research"
+author_profile: true
+layout: single
 ---
 
 这里是 Research 页面正文。
