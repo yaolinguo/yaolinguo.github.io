@@ -25,7 +25,8 @@
   }
 
   /* 从第二项开始往右移动 2rem */
-  .masthead__menu li:not(:first-child) {
-    margin-left: 2rem !important;
-  }
+ul.visible-links li:not(:first-child) {
+  transform: translateX(2rem) !important;
+  border: 2px dashed red !important; /* 调试边框 */
+}
 </style>
