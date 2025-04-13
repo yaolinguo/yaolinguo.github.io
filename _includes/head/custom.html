@@ -19,8 +19,13 @@
 <!-- end custom head snippets -->
 
 <style>
-  /* 给导航栏所有的 <li> 都画一个蓝色虚线边框来调试 */
+  /* 先保留调试的蓝色边框，方便你确认第二项之后都有框 */
   .masthead__menu li {
     border: 2px dashed blue !important;
+  }
+
+  /* 从第二项开始往右移动 2rem */
+  .masthead__menu li:not(:first-child) {
+    margin-left: 2rem !important;
   }
 </style>
