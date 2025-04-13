@@ -9,7 +9,7 @@
 
 main:
   - title: "Research"
-    url: yaolinguo.github.io/_pages/Research.md
+    url: /Research/
 
   - title: "Publications"
     url: /Publications/    
