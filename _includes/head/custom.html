@@ -20,13 +20,8 @@
 <!-- end custom head snippets -->
 
 <style>
-  /* 让导航容器采用弹性布局 */
-  .masthead__menu {
-    display: flex;
-  }
-
-  /* 给左侧“Yaolin Guo Ph.D.”这一项（通常带类 .masthead__menu-item--lg.persist）一个右外边距 */
-  .masthead__menu-item--lg.persist {
-    margin-right: 0.5rem; /* 向右腾出 2rem 空间 */
+  /* 对除了具有 .masthead__menu-item--lg.persist 的导航项之外的其他项全部加上左外边距 2rem */
+  .masthead__menu li:not(.masthead__menu-item--lg.persist) {
+    margin-left: 2.7rem;
   }
 </style>
