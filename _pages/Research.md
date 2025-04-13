@@ -1,6 +1,6 @@
-layout: single         # 或者与主题对应的其它布局,如 "page"
-permalink: /Research/  # 关键：要与 navigation.yml 的 url 一致
-title: "My Research"   # 这个文件的标题
+layout: single
+permalink: /Research/
+title: "My Research"
 ---
 
 这里是 Research 页面正文。
