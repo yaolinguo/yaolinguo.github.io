@@ -20,11 +20,8 @@
 <!-- end custom head snippets -->
 
 <style>
-  /* 
-     把“第一项”后面那个 <li>（也就是第二项）左外边距设为 2rem，
-     这样第二项及后面所有导航就整体和第一项拉开 2rem的距离 
-  */
-  .masthead__menu-item--lg.persist + li {
-    margin-left: 15rem !important;
+  /* 调试：给所有导航项加一个明显红色虚线边框 */
+  .masthead__menu.visible-links li {
+    border: 2px dashed red !important;
   }
 </style>
