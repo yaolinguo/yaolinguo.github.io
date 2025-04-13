@@ -19,7 +19,8 @@
 <!-- end custom head snippets -->
 
 <style>
-.masthead__menu li {
-  border: 2px dashed red !important;
-}
+  /* 给除第一个导航项以外的所有 <li>，加上 margin-left: 2rem */
+  .masthead__menu li:not(:first-child) {
+    margin-left: 2rem !important;
+  }
 </style>
