@@ -16,7 +16,7 @@ description              : &description "personal description"
 url                      : "https://yaolinguo.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaolinguo/yaolinguo.github.io"
-orcid                    : "https://orcid.org/0000-0002-2203-1970"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -32,6 +32,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=b0lIvfcAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Yaolin-Guo-2"
   twitter          : # Username for X / Twitter
+  orcid            : "https://orcid.org/0000-0002-2203-1970"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
