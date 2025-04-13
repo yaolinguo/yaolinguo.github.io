@@ -13,4 +13,7 @@ My research interests span plant ecology, biological invasions, species interact
 
 News
 ======
-Since 2025, I have been serving as the Secretary of the [Invasion Ecology Section](https://esa.org/invasion/) of the Ecological Society of America.
+
+01/30/2025 - Yaolin together with Dr. Lele Liu, Dr. Youzheng Zhang, and Prof. Weihua Guo, serving as a Guest Editor for a Special Issue titled “[Wetland Biodiversity and Ecosystem Conservation](https://www.mdpi.com/journal/diversity/special_issues/27QT8CPZF8)” in the journal Diversity. 
+
+12/11/2024 - Starting in 2025, Yaolin will begin serving as the Secretary of the [Invasion Ecology Section](https://esa.org/invasion/) of the Ecological Society of America.
