@@ -22,6 +22,13 @@
 <style>
   /* 假设主题的导航列表容器类是 .masthead__menu */
   .masthead__menu {
-    margin-left: 3rem;
+    margin-left: 2rem;
+  }
+</style>
+
+<style>
+  /* 只针对包含 .masthead__menu-item--lg.persist 的标题项添加左外边距 */
+  .masthead__menu-item--lg.persist {
+    margin-left: -2rem;  /* 负值表示左移；如果1rem=16px，则约左移32px */
   }
 </style>
