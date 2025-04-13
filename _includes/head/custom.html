@@ -20,14 +20,13 @@
 <!-- end custom head snippets -->
 
 <style>
-  /* 移除可能影响导航整体的 margin 设置 */
-  /* .masthead__menu {
-    margin-left: 2.7rem;
-  } */
-  
-  /* 针对标题那一项，用 !important 来确保优先级 */
+  /* 让导航容器采用弹性布局 */
+  .masthead__menu {
+    display: flex;
+  }
+
+  /* 给左侧“Yaolin Guo Ph.D.”这一项（通常带类 .masthead__menu-item--lg.persist）一个右外边距 */
   .masthead__menu-item--lg.persist {
-    margin-left: -10rem !important;
-    border: 2px solid red; /* 仅作测试，看是否加了红色边框 */
+    margin-right: 2.7rem; /* 向右腾出 2rem 空间 */
   }
 </style>
