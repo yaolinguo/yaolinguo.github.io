@@ -19,15 +19,8 @@
 <!-- end custom head snippets -->
 
 <style>
-  /* 确保只在桌面宽度(≥1024px)时起效，避免移动端折叠干扰 */
-  @media (min-width: 1024px) {
-    /* 
-       在 .masthead__menu.visible-links 这个 <ul> 内，
-       选中“从第2个 <li> (n+2) 开始到最后”所有导航项。 
-       第1项是“Yaolin Guo Ph.D.”，其后依次是 Publications, Talks, ...
-    */
-    .masthead__menu.visible-links li:nth-child(n+2) {
-      margin-left: 2rem !important; /* 向右挪2rem */
-    }
+  /* 给导航栏所有的 <li> 都画一个蓝色虚线边框来调试 */
+  .masthead__menu li {
+    border: 2px dashed blue !important;
   }
 </style>
