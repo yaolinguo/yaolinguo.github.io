@@ -19,8 +19,15 @@
 <!-- end custom head snippets -->
 
 <style>
-  /* 给除第一个导航项以外的所有 <li>，加上 margin-left: 2rem */
-  .masthead__menu li:not(:first-child) {
-    margin-left: 15rem !important;
+  /* 确保只在桌面宽度(≥1024px)时起效，避免移动端折叠干扰 */
+  @media (min-width: 1024px) {
+    /* 
+       在 .masthead__menu.visible-links 这个 <ul> 内，
+       选中“从第2个 <li> (n+2) 开始到最后”所有导航项。 
+       第1项是“Yaolin Guo Ph.D.”，其后依次是 Publications, Talks, ...
+    */
+    .masthead__menu.visible-links li:nth-child(n+2) {
+      margin-left: 2rem !important; /* 向右挪2rem */
+    }
   }
 </style>
