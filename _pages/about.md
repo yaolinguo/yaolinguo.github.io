@@ -20,4 +20,4 @@ News
 
 12/11/2024 - Starting in 2025, Yaolin will begin serving as the Secretary of the [Invasion Ecology Section](https://esa.org/invasion/) of the Ecological Society of America.
 
-12/07/2024 – Yaolin presented a poster titled "Expansion trends of Phragmites australis and its impact on the Louisiana Gulf Coast" at the 2024 Gulf Estuarine Research Society (GERS) Annual Meeting, Fairhope, Alabama.
+12/07/2024 – Yaolin presented a poster titled "Expansion trends of _Phragmites australis_ and its impact on the Louisiana Gulf Coast" at the 2024 Gulf Estuarine Research Society (GERS) Annual Meeting, Fairhope, Alabama.
