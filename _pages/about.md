@@ -14,10 +14,10 @@ My research primarily focuses on plant ecology, evolution, biodiversity and biog
 News
 ======
 
-12/07/2024 – Yaolin presented a poster titled "Expansion trends of Phragmites australis and its impact on the Louisiana Gulf Coast" at the 2024 Gulf Estuarine Research Society (GERS) Annual Meeting, held at The University of South Alabama's Baldwin County Campus in Fairhope, Alabama.
-
 03/12/2025 - 🎉 Excited to share that our paper "[Cross-continental variation of herbivore resistance in a global plant invader](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.07569)" is now published in _Ecography_! 
 
 01/30/2025 - Yaolin together with Dr. Lele Liu, Dr. Youzheng Zhang, and Prof. Weihua Guo, serves as Guest Editor for a Special Issue titled “[Wetland Biodiversity and Ecosystem Conservation](https://www.mdpi.com/journal/diversity/special_issues/27QT8CPZF8)” in _Diversity_. 
 
 12/11/2024 - Starting in 2025, Yaolin will begin serving as the Secretary of the [Invasion Ecology Section](https://esa.org/invasion/) of the Ecological Society of America.
+
+12/07/2024 – Yaolin presented a poster titled "Expansion trends of Phragmites australis and its impact on the Louisiana Gulf Coast" at the 2024 Gulf Estuarine Research Society (GERS) Annual Meeting, held at The University of South Alabama's Baldwin County Campus in Fairhope, Alabama.
