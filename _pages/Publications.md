@@ -6,11 +6,13 @@ layout: single
 ---
 
 
-**In Review/In Revision/Pre-Print**
+**In review, in Revision, and in preprint**
 
 **Guo, Y.**, Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K. (2025). Expansion trends of _Phragmites australis_ and its impact on the Louisiana Gulf Coast. Submitted to Ecology.
 
-Guo, Y, Madalin Parepa2, Hui Wang3, Min Wang4, Jinan Lu1, Jihua Wu5*, Bo Li1,6*, Oliver Bossdorf2*, Rui-Ting Ju1
+**Guo, Y.**, Perapa, M., Wang, H., Wang, M., Li, B., Ju, R.-T. & Bossdorf, O. (2024). Global heterogeneity of latitudinal patterns in herbivory between native and exotic plants. Under review at _Science Advances_.
+
+
 
 **Accepted/Published**
 
