@@ -1,8 +1,8 @@
-.navbar-nav li a[href*="publications"] {
-  margin-left: 200px; /* 您可以根据需要调整这个数值 */
+.navbar-nav li a[href="publications"] {
+  margin-left: 200px; /* 导航栏调整 */
 }
 
-/* Remove unwanted margin before/after <details> */
+/* 清除 details 摘要按钮前多余的空行 */
 details {
   margin-top: 0 !important;
   margin-bottom: 0.5em;
