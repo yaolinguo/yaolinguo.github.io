@@ -9,13 +9,13 @@ layout: single
 **_In review, in revision, and in preprint_**
 
 **Guo, Y.**, Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K. (2025). Expansion trends of _Phragmites australis_ and its impact on the Louisiana Gulf Coast. Submitted to _Ecological Applications_.
-
 <details>
-<summary>📖 Abstract</summary>
+<summary>Abstract</summary>
 
 This study analyzes 18 years of data from 390 coastal monitoring sites in Louisiana to examine spatial and temporal trends in the expansion of *Phragmites australis* and its ecological effects. We highlight the role of soil properties in mediating these changes and discuss implications for restoration and invasive species management.
 
 </details>
+
 
 **Guo, Y.**, Perapa, M., Wang, H., Wang, M., Lu, J., Wu, J., Li, B., Bossdorf, O. & Ju, R.-T. (2025). Herbivory increases towards lower latitudes in native but not introduced plants. Submitted to _Science Advances_ (under review).
 
