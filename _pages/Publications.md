@@ -14,6 +14,7 @@ This study analyzes 18 years of data from 390 coastal monitoring sites in Louisi
 </details>
 
 
+
 **Guo, Y.**, Perapa, M., Wang, H., Wang, M., Lu, J., Wu, J., Li, B., Bossdorf, O. & Ju, R.-T. (2025). Herbivory increases towards lower latitudes in native but not introduced plants. Submitted to _Science Advances_ (under review).
 
 Lu, J., **Guo, Y.**, Richards, C., Li, L., Wu, J., Li, B., & Ju, R.-T. (2025). Rapid adaptive evolution of multidimensional traits in a widespread plant invader. Submitted to _Ecology_ (under review).
