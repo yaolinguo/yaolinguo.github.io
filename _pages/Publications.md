@@ -8,13 +8,13 @@ layout: single
 
 **_In review, in revision, and in preprint_**
 
-**Guo, Y.**, Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K. (2025). Expansion trends of _Phragmites australis_ and its impact on the Louisiana Gulf Coast. Submitted to _Ecology_.
+**Guo, Y.**, Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K. (2025). Expansion trends of _Phragmites australis_ and its impact on the Louisiana Gulf Coast. Submitted to _Ecological Applications_.
 
-**Guo, Y.**, Perapa, M., Wang, H., Wang, M., Lu, J., Wu, J., Li, B., Bossdorf, O. & Ju, R.-T. (2025). Herbivory increases towards lower latitudes in native but not introduced plants. Under review at _Science Advances_.
+**Guo, Y.**, Perapa, M., Wang, H., Wang, M., Lu, J., Wu, J., Li, B., Bossdorf, O. & Ju, R.-T. (2025). Herbivory increases towards lower latitudes in native but not introduced plants. Submitted to _Science Advances_ (under review).
 
-Lu, J., **Guo, Y.**, Richards, C., Li, L., Wu, J., Li, B., & Ju, R.-T. (2025). Rapid adaptive evolution of multidimensional traits in a widespread plant invader. Under review at _Ecology_.
+Lu, J., **Guo, Y.**, Richards, C., Li, L., Wu, J., Li, B., & Ju, R.-T. (2025). Rapid adaptive evolution of multidimensional traits in a widespread plant invader. Submitted to _Ecology_ (under review).
 
-Lu, J., **Guo, Y.**, Zhao, Y., Wu, J., Li, B., Richards, C. L., & Ju, R.-T. (2025) Silicon mediates geographic variation of herbivory-related traits in a widespread plant invader. Under review at _Journal of Plant Ecology_.
+Lu, J., **Guo, Y.**, Zhao, Y., Wu, J., Li, B., Richards, C. L., & Ju, R.-T. (2025) Silicon mediates geographic variation of herbivory-related traits in a widespread plant invader. Submitted to _Journal of Plant Ecology_ (under review).
 
 
 **_Accepted/Published_**
