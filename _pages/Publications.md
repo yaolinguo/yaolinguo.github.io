@@ -8,7 +8,7 @@ layout: single
 
 **_In review, in revision, and in preprint_**
 
-<p style="margin-bottom: 0.2em;"><strong>Guo, Y.</strong>, Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., La Peyre, M. K. (2025). Submitted.</p>
+<p style="margin-bottom: 0.2em;"><strong>Guo, Y.</strong>, Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K. (2025). Submitted.</p>
 <div style="margin-bottom: 0.5em;">
   <button class="btn toggle-abstract">ABSTRACT</button>
   <a href="assets/papers/Guo2025_Phragmites_Ecology.pdf" class="btn" target="_blank">PDF</a>
