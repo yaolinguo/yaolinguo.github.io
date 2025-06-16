@@ -8,8 +8,8 @@ layout: single
 
 **_In review, in revision, and in preprint_**
 
-**Guo, Y.**, Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K. (2025). Expansion trends of _Phragmites australis_ and its impact on the Louisiana Gulf Coast. Submitted to _Ecological Applications_. 
-<details style="margin-top: -0.5em; padding-top: 0;"><summary>📖 Abstract</summary>
+<p style="margin-bottom: 0.2em;"><strong>Guo, Y.</strong>, Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K. (2025). Expansion trends of <em>Phragmites australis</em> and its impact on the Louisiana Gulf Coast. Submitted to <em>Ecological Applications</em>.</p>
+<details><summary>📖 Abstract</summary>
 This study analyzes 18 years of data from 390 coastal monitoring sites in Louisiana to examine spatial and temporal trends...
 </details>
 
