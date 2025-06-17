@@ -169,6 +169,26 @@ layout: single
 </div>
 
 
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Trade-offs between Cd bioconcentration and translocation and underlying physiological and rhizobacterial mechanisms in <em>Phragmites australis</em>
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Meiqi Yin, Xiya Zhang, Hong Zhu, Wenyi Sheng, Yiming Wu, Dongzi Jiang, Qishen Wen, Hongjin Shao, <strong>Yaolin Guo</strong>, Cui Wang, Luyao Ma, Xiaona Yu, Hans Brix, Lele Liu, Weihua Guo
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Journal of Environmental Management</em>, 2024, Volume 371, Article 123291
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Yin2024_JEnvMan.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1016/j.jenvman.2024.123291" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Cadmium (Cd) pollution poses a significant threat to wetland ecosystems. <em>Phragmites australis</em>, a species with intraspecific ploidy diversity, is commonly used in constructed wetlands for pollution remediation. However, little is known about how the ploidy variation of <em>P. australis</em> influences the phytoremediation processes via physiological and rhizosphere regulations. Here, we used <em>P. australis</em> from two major lineages in China (i.e., tetraploid lineage O and octoploid lineage P) and applied three Cd treatments (control, low Cd concentration, and high Cd concentration). We found that the lineage O had a bioconcentration factor of Cd approximately 40% higher than that of the lineage P. The translocation factor of the lineage P was about 300% higher than that of the lineage O. These suggest that the lower ploidy lineage exhibited a greater capacity to absorb Cd from the environment into the underground part compared to the higher ploidy lineage, and the higher ploidy lineage demonstrated a superior ability in transferring Cd from the underground to the aboveground part. The advanced transpiration system in the higher ploidy lineage can contribute to its enhanced ability to translocate Cd, as the translocation factor of Cd was significantly correlated with the base shoot diameter and the transpiration rate, both notably higher in the lineage P. The rhizobacterial community associated with the lineage P displayed a more intense response to Cd, characterized by an increase in both the diversity of the community and the number of varied bacterial functions following the addition of Cd. Our study offers profound insights into the ecological consequences of intraspecific polyploidization and the application of intraspecific ploidy variation in environmental management and wetland restoration.
+  </div>
+</div>
+
 
 
 
