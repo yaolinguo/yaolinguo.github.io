@@ -4,33 +4,26 @@
   margin-right: auto;
 }
 
-/* 延迟 mobile 菜单触发条件，从默认 768px 改到 600px 以下才切换 */
 @media (min-width: 601px) {
-  .greedy-nav {
-    display: flex !important;
-  }
-
   .greedy-nav .visible-links {
     display: flex !important;
+    flex-wrap: nowrap !important;
+    align-items: center !important;
   }
 
-  .greedy-nav .hidden-links,
-  .greedy-nav button {
+  .greedy-nav button,
+  .greedy-nav .hidden-links {
     display: none !important;
   }
 }
 
 @media (max-width: 600px) {
-  .greedy-nav {
-    display: block !important;
-  }
-
   .greedy-nav .visible-links {
     display: table !important;
   }
 
-  .greedy-nav .hidden-links,
-  .greedy-nav button {
+  .greedy-nav button,
+  .greedy-nav .hidden-links {
     display: block !important;
   }
 }
