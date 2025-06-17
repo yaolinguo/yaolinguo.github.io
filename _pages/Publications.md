@@ -44,7 +44,9 @@ Silicon, the Earth’s second most abundant element, affects plant defenses acro
 </div>
 
 
-**Published**
+<div style="text-align: center; font-weight: bold; font-size: 1.2em; margin-top: 1em; margin-bottom: 0.8em;">
+  Published
+</div>
 
 Cao, P., Liao, Z. Y., Wang, S., Parepa, M., Zhang, L., Bi, J., Zhao, Y., **Guo, Y.**, Lin, T., Endriss, S. B., Wu, J., Ju, R.-T., Richards, C., Bossdorf, O. & Li, B. (2025). Cross‐continental variation of herbivore resistance in a global plant invader. **_Ecography_**, e07569.
 
