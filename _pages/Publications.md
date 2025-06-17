@@ -198,7 +198,7 @@ layout: single
     Yu-Jie Zhao, Shengyu Wang, Zhi-Yong Liao, Madalin Parepa, Lei Zhang, Peipei Cao, Jingwen Bi, <strong>Yaolin Guo</strong>, Oliver Bossdorf, Christina L. Richards, Jihua Wu, Bo Li, Rui-Ting Ju
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <em>Ecology</em>, 2024 · <a href="https://doi.org/10.1002/ecy.4425" target="_blank">https://doi.org/10.1002/ecy.4425</a>
+    <em>Ecology</em>, 2024
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
@@ -211,6 +211,26 @@ layout: single
 </div>
 
 
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Divergence in spatial patterns of leaf stoichiometry between native and non-native plants across coastal wetlands
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Youzheng Zhang†, <strong>Yaolin Guo†</strong>, Hui Wang, Niu Li, Hengtao Xu, Dongrong Zhang, Jian Qian, Yukun Hu
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>[Journal Name Placeholder]</em>, [Year Placeholder]
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Zhang2025_Stoichiometry.pdf" class="btn" target="_blank">PDF</a>
+    <!-- Add DOI link here when available -->
+    <!-- <a href="https://doi.org/xxxxxx" class="btn" target="_blank">↗</a> -->
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    The spatial pattern of leaf stoichiometry is critical in predicting plant palatability, ecosystem productivity, and nutrient cycling rates, and is thus a major focus of community ecological research. Coastal wetlands are vital blue carbon ecosystems and are especially vulnerable to plant invasion. However, stoichiometric studies in these systems remain limited, especially those comparing native and non-native species. In this study, we compared latitudinal patterns of leaf nutrient content and stoichiometric ratios between native and non-native species in coastal wetlands and assessed whether climatic factors drive these patterns. Using a global dataset of 954 records, we conducted a systematic meta-analysis. Our results revealed significant differences in the latitudinal trends of leaf carbon (C), nitrogen (N), and their C:N ratios between native and non-native species, and also found differences in C, N, and phosphorus (P) contents. For native species, we detected latitudinal patterns in C, N, P contents, as well as C:N and C:P ratios. For non-native species, patterns were observed for N content, C:P, and N:P ratios. Mean annual temperature significantly predicted leaf stoichiometry in native species, but for non-native species only leaf N and C:P were related to temperature. These results demonstrate spatial divergence in nutrient allocation strategies between native and non-native wetland plants, which has implications for plant-herbivore interactions, nutrient modeling, and the broader role of wetlands in global biogeochemical cycles.
+  </div>
+</div>
 
 
 
