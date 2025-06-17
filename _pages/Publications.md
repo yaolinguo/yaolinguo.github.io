@@ -156,7 +156,7 @@ layout: single
     Wei Wei†, Qishen Wen†, Hong Zhu, Huijia Song, Xiya Zhang, Wenyi Sheng, Liujuan Xie, Xiao Guo, <strong>Yaolin Guo</strong>, Siyuan Ye, Yuzhi Wang, Lele Liu, Weihua Guo
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <em><a href="https://doi.org/10.3390/d17040282" target="_blank" style="text-decoration: none; color: inherit;">Diversity</a></em>, 2025
+    <em>Diversity</em>, 2025
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
@@ -177,7 +177,7 @@ layout: single
     Meiqi Yin, Xiya Zhang, Hong Zhu, Wenyi Sheng, Yiming Wu, Dongzi Jiang, Qishen Wen, Hongjin Shao, <strong>Yaolin Guo</strong>, Cui Wang, Luyao Ma, Xiaona Yu, Hans Brix, Lele Liu, Weihua Guo
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <em>Journal of Environmental Management</em>, 2024, Volume 371, Article 123291
+    <em>Journal of Environmental Management</em>, 2024
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
