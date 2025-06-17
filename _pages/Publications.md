@@ -9,17 +9,17 @@ layout: single
   Submitted &amp; Completed
 </div>
 
-<div style="line-height: 1.5; margin-bottom: 1.5em;">
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
     Expansion trends of <em>Phragmites australis</em> and its impact on the Louisiana Gulf Coast
   </p>
-  <p style="margin: 0.3em 0 0 0;">
+  <p style="margin: 0.2em 0 0 0;">
     Guo, Y., Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K.
   </p>
-  <p style="margin: 0.3em 0 0 0;">
+  <p style="margin: 0.2em 0 0 0;">
     <em>Submitted</em>, 2025
   </p>
-  <div style="margin: 0.6em 0;">
+  <div style="margin: 0.65em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
   </div>
   <div class="abstract-box" style="display: none; font-size: 0.95em;">
