@@ -3,22 +3,3 @@
   margin-left: 2rem;
   margin-right: auto;
 }
-
-/* 全面重置导航栏样式，确保所有菜单项垂直对齐 */
-.navbar-nav > li > a {
-  padding-top: 16px !important;
-  padding-bottom: 16px !important;
-  line-height: 1.4 !important;
-  font-weight: normal !important;
-  border-bottom: none !important;
-  background: transparent !important;
-  display: flex;
-  align-items: center;
-}
-
-/* 去除 active 页面的特殊样式 */
-.navbar-nav > li.active > a {
-  font-weight: normal !important;
-  border-bottom: none !important;
-  background: transparent !important;
-}
