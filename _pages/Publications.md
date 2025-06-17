@@ -47,28 +47,51 @@ layout: single
 </div>
 
 
-<p style="margin-bottom: 0.2em;">
-  Lu, J., <strong>Guo, Y.</strong>, Richards, C., Li, L., Wu, J., Li, B., & Ju, R.-T. (2025). Rapid adaptive evolution of multidimensional traits in a widespread plant invader. Submitted. </p>
-<div style="margin-bottom: 0.5em;">
-  <button class="btn toggle-abstract">ABSTRACT</button>
-</div>
-<div class="abstract-box" style="display: none; font-size: 0.95em; margin-bottom: 1em;">
-Rapid evolution contributes to plant invasion success. Few studies have considered the coevolution of multidimensional traits of growth/reproduction and defense simultaneously across large geographic scales in invasive plants. We compared multiple traits related to growth, fecundity, and defense against generalist herbivores in 85 genetic families of the widespread invasive plant <em>Spartina alterniflora</em> collected from native (US, 27.70°N–34.73°N, the introduction sources for all invasive populations) and introduced (China, 20.90°N–39.04°N, the entire distribution span of invasive populations) ranges. Based on trait measures, we conducted complementary analyses including syndrome clustering, selection analysis, and testing for trait–climate relationships. Of 18 tested variables, ten revealed genetic-based differences between native and introduced ranges, and nine exhibited latitudinal clines within the introduced range. Introduced families compared to natives exhibited superior syndromes with greater growth, fecundity, and defense, which were linked to provenance climates and could enhance plant competitiveness and spread. We conclude that within only 40 years since its introduction to China, <em>Spartina</em> has evolved an integrated ecological strategy to enhance invasiveness under climate selective pressure, making it the most successful invader along China’s coast. Our study underscores the importance of considering multivariate traits to understand plant invasion success.
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Rapid adaptive evolution of multidimensional traits in a widespread plant invader
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    J. Lu, <strong>Yaolin Guo</strong>, Christina L Richards, Linfeng Li, Jihua Wu, Bo Li, Rui-Ting Ju
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Submitted</em>, 2025
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Rapid evolution contributes to plant invasion success. Few studies have considered the coevolution of multidimensional traits of growth/reproduction and defense simultaneously across large geographic scales in invasive plants. We compared multiple traits related to growth, fecundity, and defense against generalist herbivores in 85 genetic families of the widespread invasive plant <em>Spartina alterniflora</em> collected from native (US, 27.70°N–34.73°N) and introduced (China, 20.90°N–39.04°N) ranges. Based on trait measures, we conducted complementary analyses including syndrome clustering, selection analysis, and testing for trait–climate relationships. Of 18 tested variables, ten revealed genetic-based differences between native and introduced ranges, and nine exhibited latitudinal clines within the introduced range. Introduced families exhibited superior syndromes with greater growth, fecundity, and defense, which were linked to provenance climates and could enhance plant competitiveness and spread. We conclude that within only 40 years since its introduction to China, <em>Spartina</em> has evolved an integrated ecological strategy to enhance invasiveness under climate selective pressure. Our study underscores the importance of considering multivariate traits to understand plant invasion success.
+  </div>
 </div>
 
-<p style="margin-bottom: 0.2em;">
-  Lu, J., <strong>Guo, Y.</strong>, Zhao, Y., Wu, J., Li, B., Richards, C. L., & Ju, R.-T. (2025). Silicon mediates geographic variation of herbivory-related traits in a widespread plant invader. Submitted.</p>
-<div style="margin-bottom: 0.5em;">
-  <button class="btn toggle-abstract">ABSTRACT</button>
+
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Silicon mediates geographic variation of herbivory-related traits in a widespread plant invader
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    J. Lu, <strong>Yaolin Guo</strong>, Yujie Zhao, Jihua Wu, Bo Li, Christina L Richards, Rui-Ting. Ju
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Submitted</em>, 2025
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Silicon, the Earth’s second most abundant element, affects plant defenses across large geographic scales, which is an interesting yet mostly unexplored issue in non-native species. We investigated silicon-mediated variation in defensive/nutritional traits and palatability to generalist herbivores in 16 geographic populations of the invasive grass <em>Spartina alterniflora</em> collected from native and introduced ranges. We found that silicon supplementation generally increased silicon accumulation in <em>Spartina</em> leaves, enhanced their physical/chemical defenses, and reduced nutritional quality, ultimately impeding the growth of generalists. Introduced populations, independent of silicon treatments, had significantly higher silicon content in leaves than native populations. However, silicon supplementation increased more leaf silicon in low-latitude introduced populations than in high-latitude ones. Moreover, the mechanisms of silicon accumulation affecting generalists differed between provenances: enhancing chemical defenses in native populations, but improving structural or chemical defenses in introduced ones. These results suggest a rapid evolution of silicon-mediated defense strategies in introduced populations. Our findings highlight how non-native plants utilize silicon to enhance defenses and underscore the importance of metalloid defenses in invasion success.
+  </div>
 </div>
-<div class="abstract-box" style="display: none; font-size: 0.95em; margin-bottom: 1em;">
-Silicon, the Earth’s second most abundant element, affects plant defenses across large geographic scales, which is an interesting yet mostly unexplored issue in non-native species. We investigated silicon-mediated variation in defensive/nutritional traits and palatability to generalist herbivores in 16 geographic populations of the invasive grass <em>Spartina alterniflora</em> collected from native and introduced ranges. We found that silicon supplementation generally increased silicon accumulation in <em>Spartina</em> leaves, and enhanced their physical/chemical defenses and reduced nutritional quality, ultimately impeding the growth of generalists. Introduced populations, independent of silicon treatments, had significantly higher silicon content in leaves than native populations. However, silicon supplementation increased more leaf silicon in low-latitude introduced populations than in high-latitude introduced populations. Moreover, the mechanisms of silicon accumulation affecting generalists differed between plant provenances: enhancing quantitative and qualitative chemical defenses in native populations, but improving quantitative chemical or structural defenses in introduced ones. These results suggest a rapid evolution of defense strategies mediated by silicon in introduced  populations. Our findings provide insights into how non-native plants utilize silicon to enhance defenses, emphasizing the importance of metalloid defenses in invasion success.
-</div>
+
+
+
 
 
 <div style="text-align: center; font-weight: bold; font-size: 1.2em; margin-top: 1em; margin-bottom: 0.8em;">
   Published
 </div>
+
 
 Cao, P., Liao, Z. Y., Wang, S., Parepa, M., Zhang, L., Bi, J., Zhao, Y., **Guo, Y.**, Lin, T., Endriss, S. B., Wu, J., Ju, R.-T., Richards, C., Bossdorf, O. & Li, B. (2025). Cross‐continental variation of herbivore resistance in a global plant invader. **_Ecography_**, e07569.
 
