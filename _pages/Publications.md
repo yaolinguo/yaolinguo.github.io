@@ -19,7 +19,7 @@ layout: single
   <p style="margin: 0.2em 0 0 0;">
     <em>Submitted</em>, 2025
   </p>
-  <div style="margin: 0.65em 0;">
+  <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
   </div>
   <div class="abstract-box" style="display: none; font-size: 0.95em;">
