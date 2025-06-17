@@ -14,7 +14,7 @@ layout: single
     Expansion trends of <em>Phragmites australis</em> and its impact on the Louisiana Gulf Coast
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <strong>Yaolin Guo</strong>, Brian J. Roberts, John A. Nyman, Jeffrey D. Plumlee, Theresa M. Davenport, Garrett W. Hopper, Megan K. La Peyre
+    <strong>Yaolin Guo</strong>, Brian J Roberts, John A Nyman, Jeffrey D Plumlee, Theresa M Davenport, Garrett W Hopper, Megan K La Peyre
   </p>
   <p style="margin: 0.25em 0 0 0;">
     <em>Submitted</em>, 2025
