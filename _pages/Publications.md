@@ -104,19 +104,20 @@ layout: single
     Cross‐continental variation of herbivore resistance in a global plant invader
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    P. Cao, Z. Y. Liao, S. Wang, M. Parepa, L. Zhang, J. Bi, Y. Zhao, <strong>Yaolin Guo</strong>, T. Lin, S. B. Endriss, J. Wu, R.-T. Ju, C. Richards, O. Bossdorf, B. Li
+    Peipei Cao, Zhi-Yong Liao, Shengyu Wang, Madalin Parepa, Lei Zhang, Jingwen Bi, Yujie Zhao, <strong>Yaolin Guo</strong>, Tiantian Lin, Stacy B. Endriss, Jihua Wu, Rui-Ting Ju, Christina L. Richards, Oliver Bossdorf, Bo Li
   </p>
   <p style="margin: 0.25em 0 0 0;">
     <em>Ecography</em>, 2025, e07569
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="assets/papers/Cao2025_Ecography.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1111/ecog.07569" class="btn" target="_blank">↗</a>
   </div>
   <div class="abstract-box" style="display: none; font-size: 0.90em;">
-    Understanding how herbivore resistance varies across biogeographic regions is fundamental to predicting invasion success. In this study, we investigated patterns of herbivore resistance in a widespread invasive plant across continents. Using common garden experiments and bioassays, we compared herbivore resistance traits among populations from native and introduced ranges. The results revealed significant geographic divergence, with introduced populations exhibiting both increased and decreased resistance depending on local herbivore pressure and evolutionary history. Our findings highlight the importance of eco-evolutionary feedbacks and regional context in shaping plant-herbivore interactions and suggest that invasion outcomes can be contingent on continent-specific ecological filters.
+    While successful plant invasions often occur in novel environments, invasive species usually occupy broad niches within their native and introduced ranges. A better understanding of the process of invasion therefore requires a wide sampling of ranges, and a good knowledge of introduction history. We tested for differentiation in herbivore resistance among 128 introduced (European, North American) and native (Chinese, Japanese) populations of the invasive Japanese knotweed <em>Reynoutria japonica</em> in two common gardens in the native range: one in Shanghai and the other in Yunnan. In both gardens, we found that herbivore resistance of plants from introduced populations differed from that of native populations in China but not from native populations in Japan, the putative source of introduction. Compared to native Chinese populations, plants from native Japanese populations and introduced European and North American populations had thicker leaves in both common gardens, and a lower C:N ratio but higher flavonoids content in the Shanghai garden. Variation in herbivore resistance was more strongly associated with climate of collecting sites for populations from the native range than for those from introduced ranges. Our results support the hypothesis that introduction of particularly resistant plants from Japan may have played a key role in driving biogeographic variation in herbivore resistance. Our study highlights the importance of understanding introduction history to interpret the biogeographic divergence of global plant invaders.
   </div>
 </div>
-
 
 
 Zhao, Y. J., Wang, S., Liao, Z. Y., Parepa, M., Zhang, L., Cao, P., Bi, J., **Guo, Y.**, Bossdorf, O., Richards, C., Wu, J., Li, B. & Ju, R.-T. (2024). Geographic variation in leaf traits and palatability of a native plant invader during domestic expansion. **_Ecology_**, 105(11), e4425.
