@@ -104,7 +104,7 @@ layout: single
     Cross‐continental variation of herbivore resistance in a global plant invader
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    Peipei Cao, Zhi-Yong Liao, Shengyu Wang, Madalin Parepa, Lei Zhang, Jingwen Bi, Yujie Zhao, <strong>Yaolin Guo</strong>, Tiantian Lin, Stacy B. Endriss, Jihua Wu, Rui-Ting Ju, Christina L. Richards, Oliver Bossdorf, Bo Li
+    Peipei Cao, Zhi-Yong Liao, Shengyu Wang, Madalin Parepa, Lei Zhang, Jingwen Bi, Yujie Zhao, <strong>Yaolin Guo</strong>, Tiantian Lin, Stacy B. Endriss, Jihua Wu, Rui-Ting Ju, Christina L Richards, Oliver Bossdorf, Bo Li
   </p>
   <p style="margin: 0.25em 0 0 0;">
     <em>Ecography</em>, 2025, e07569
