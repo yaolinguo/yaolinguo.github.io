@@ -107,7 +107,7 @@ layout: single
     Peipei Cao, Zhi-Yong Liao, Shengyu Wang, Madalin Parepa, Lei Zhang, Jingwen Bi, Yujie Zhao, <strong>Yaolin Guo</strong>, Tiantian Lin, Stacy B. Endriss, Jihua Wu, Rui-Ting Ju, Christina L Richards, Oliver Bossdorf, Bo Li
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <em>Ecography</em>, 2025, e07569
+    <em>Ecography</em>, 2025
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
