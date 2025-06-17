@@ -13,10 +13,10 @@ layout: single
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
     Expansion trends of <em>Phragmites australis</em> and its impact on the Louisiana Gulf Coast
   </p>
-  <p style="margin: 0.2em 0 0 0;">
+  <p style="margin: 0.25em 0 0 0;">
     Guo, Y., Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K.
   </p>
-  <p style="margin: 0.2em 0 0 0;">
+  <p style="margin: 0.25em 0 0 0;">
     <em>Submitted</em>, 2025
   </p>
   <div style="margin: 0.5em 0;">
