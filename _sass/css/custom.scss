@@ -9,12 +9,15 @@
   padding-bottom: 12px !important;
   line-height: 1.5 !important;
   font-weight: normal !important;
-  border: none !important;
+  border-bottom: none !important;
   box-shadow: none !important;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .navbar-nav > li.active > a {
   font-weight: normal !important;
+  border-bottom: none !important;
   background: none !important;
-  border: none !important;
+  box-shadow: none !important;
 }
