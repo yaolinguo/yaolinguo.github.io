@@ -5,6 +5,12 @@ author_profile: true
 layout: single
 ---
 
+
+<p style="font-size: 0.85em; color: #666; margin-top: -0.5em; margin-bottom: 1.5em;">
+  † denotes equal contribution.
+</p>
+
+
 <div style="text-align: center; font-weight: bold; font-size: 1.2em; margin-top: 1em; margin-bottom: 0.8em;">
   Submitted &amp; Completed
 </div>
