@@ -150,7 +150,7 @@ layout: single
 
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
-    Effects of Phenotypic Plasticity and Genetic Variation on Plant Growth and Litter Decomposition in a Widespread Wetland Grass
+    Effects of phenotypic plasticity and genetic variation on plant growth and litter decomposition in a widespread wetland grass
   </p>
   <p style="margin: 0.25em 0 0 0;">
     Wei Wei†, Qishen Wen†, Hong Zhu, Huijia Song, Xiya Zhang, Wenyi Sheng, Liujuan Xie, Xiao Guo, <strong>Yaolin Guo</strong>, Siyuan Ye, Yuzhi Wang, Lele Liu, Weihua Guo
