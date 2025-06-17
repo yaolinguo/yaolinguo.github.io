@@ -3,3 +3,18 @@
   margin-left: 2rem;
   margin-right: auto;
 }
+
+.navbar-nav > li > a {
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  line-height: 1.5 !important;
+  font-weight: normal !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.navbar-nav > li.active > a {
+  font-weight: normal !important;
+  background: none !important;
+  border: none !important;
+}
