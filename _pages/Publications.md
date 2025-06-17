@@ -16,7 +16,7 @@ layout: single
   <p style="margin: 0.3em 0 0 0;">
     Guo, Y., Roberts, B. J., Nyman, J. A., Plumlee, J. D., Davenport, T. M., Hopper, G. W., & La Peyre, M. K.
   </p>
-  <p style="font-style: italic; margin: 0.3em 0 0 0;">
+  <p style="margin: 0.3em 0 0 0;">
     <em>Submitted</em>, 2025
   </p>
   <div style="margin: 0.6em 0;">
