@@ -99,7 +99,25 @@ layout: single
 </div>
 
 
-Cao, P., Liao, Z. Y., Wang, S., Parepa, M., Zhang, L., Bi, J., Zhao, Y., **Guo, Y.**, Lin, T., Endriss, S. B., Wu, J., Ju, R.-T., Richards, C., Bossdorf, O. & Li, B. (2025). Cross‐continental variation of herbivore resistance in a global plant invader. **_Ecography_**, e07569.
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Cross‐continental variation of herbivore resistance in a global plant invader
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    P. Cao, Z. Y. Liao, S. Wang, M. Parepa, L. Zhang, J. Bi, Y. Zhao, <strong>Yaolin Guo</strong>, T. Lin, S. B. Endriss, J. Wu, R.-T. Ju, C. Richards, O. Bossdorf, B. Li
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Ecography</em>, 2025, e07569
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Understanding how herbivore resistance varies across biogeographic regions is fundamental to predicting invasion success. In this study, we investigated patterns of herbivore resistance in a widespread invasive plant across continents. Using common garden experiments and bioassays, we compared herbivore resistance traits among populations from native and introduced ranges. The results revealed significant geographic divergence, with introduced populations exhibiting both increased and decreased resistance depending on local herbivore pressure and evolutionary history. Our findings highlight the importance of eco-evolutionary feedbacks and regional context in shaping plant-herbivore interactions and suggest that invasion outcomes can be contingent on continent-specific ecological filters.
+  </div>
+</div>
+
+
 
 Zhao, Y. J., Wang, S., Liao, Z. Y., Parepa, M., Zhang, L., Cao, P., Bi, J., **Guo, Y.**, Bossdorf, O., Richards, C., Wu, J., Li, B. & Ju, R.-T. (2024). Geographic variation in leaf traits and palatability of a native plant invader during domestic expansion. **_Ecology_**, 105(11), e4425.
 
