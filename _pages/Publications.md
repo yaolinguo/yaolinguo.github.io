@@ -33,7 +33,7 @@ layout: single
     Herbivory increases towards lower latitudes in native but not introduced plants
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <strong>Yaolin Guo</strong>, M. Perapa, H. Wang, M. Wang, J. Lu, J. Wu, B. Li, O. Bossdorf, R.-T. Ju
+    <strong>Yaolin Guo</strong>, Madalin Perapa, Hui Wang, Min Wang, Jinan Lu, Jihua Wu, Bo Li, Oliver Bossdorf, Rui-Ting Ju
   </p>
   <p style="margin: 0.25em 0 0 0;">
     <em>Submitted</em>, 2025
