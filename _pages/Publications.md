@@ -18,12 +18,8 @@ layout: single
 <p style="font-style: italic; margin-top: -0.5em; margin-bottom: 0.5em;">
   Submitted, 2025
 </p>
-
 <div style="margin-bottom: 0.8em;">
   <button class="btn toggle-abstract">ABSTRACT</button>
-  <a href="assets/papers/Guo2025_Phragmites_Ecology.pdf" class="btn" target="_blank">PDF</a>
-  <a href="assets/bib/Guo2025.bib" class="btn">CITE</a>
-  <a href="https://example.com/project" class="btn" target="_blank">↗</a>
 </div>
 
 <div class="abstract-box" style="display: none; font-size: 0.95em; margin-bottom: 1.5em;">
