@@ -15,6 +15,10 @@ layout: single
   Submitted &amp; Completed
 </div>
 
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 1.5em 0;" />
+
+
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
     Expansion trends of <em>Phragmites australis</em> and its impact on the Louisiana Gulf Coast
@@ -99,7 +103,7 @@ layout: single
 </div>
 
 
-
+<hr style="border: none; border-top: 1px solid #ccc; margin: 1.5em 0;" />
 
 
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
@@ -123,9 +127,6 @@ layout: single
 </div>
 
 
-
-
-
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
     Climatic adaptation and phylogenetic history shape the intra-specific variation of CSR strategies in a widespread grass
@@ -145,16 +146,6 @@ layout: single
     The competitor, stress tolerator, and ruderal strategy (CSR) framework has been widely applied to explain ecological processes across species. However, its utility in revealing intra-specific trade-offs and genetic adaptation to climate remains unclear. In this study, we examined whether the CSR strategy estimated by leaf traits can identify adaptations to climate in the common reed <em>Phragmites australis</em>. For this purpose, we integrated functional trait data from field surveys and a three-year common garden experiment to compare CSR scores between two typical populations of <em>P. australis</em> from western and eastern China. We further assessed the associations of CSR scores with latitude, bioclimatic factors, and phylogeographical sources using a global dataset including two invaded lineages in North America. We found that competitor scores were positively correlated with latitude, whereas stress tolerator scores were negatively correlated. Competitor scores were positively correlated with bioclimatic factors, even when controlling for phylogeny. All CSR scores displayed significant phylogenetic signals, with the invasive lineage in the higher latitudes (haplotype M) exhibiting higher stress tolerator scores than the native lineage. Differences in competitor and stress tolerator scores between western and eastern Chinese populations of <em>P. australis</em> were consistent across field and common garden experiments. Although intra-species variation in CSR strategy may be influenced by phylogenetic history, our finding that CSR strategy in <em>P. australis</em> populations is correlated with latitude suggests these plants have adapted to local climates along a latitudinal gradient.
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
 
 
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
