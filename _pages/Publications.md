@@ -111,7 +111,7 @@ layout: single
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
-    <a href="assets/papers/Cao2025_Ecography.pdf" class="btn" target="_blank">PDF</a>
+    <a href="assets/papers/Cao et al. 2025_Ecography.pdf" class="btn" target="_blank">PDF</a>
     <a href="https://doi.org/10.1111/ecog.07569" class="btn" target="_blank">↗</a>
   </div>
   <div class="abstract-box" style="display: none; font-size: 0.90em;">
