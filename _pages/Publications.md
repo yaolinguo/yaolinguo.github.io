@@ -123,6 +123,34 @@ layout: single
 </div>
 
 
+
+
+
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Climatic adaptation and phylogenetic history shape the intra-specific variation of CSR strategies in a widespread grass
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Lele Liu, Meiqi Yin, <strong>Yaolin Guo</strong>, Huijia Song, Xiao Guo, Weihua Guo
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Plant Diversity</em>, 2025, <a href="https://doi.org/10.1016/j.pld.2025.06.001" target="_blank">https://doi.org/10.1016/j.pld.2025.06.001</a>
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Liu2025_PlantDiversity.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1016/j.pld.2025.06.001" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    The competitor, stress tolerator, and ruderal strategy (CSR) framework has been widely applied to explain ecological processes across species. However, its utility in revealing intra-specific trade-offs and genetic adaptation to climate remains unclear. In this study, we examined whether the CSR strategy estimated by leaf traits can identify adaptations to climate in the common reed <em>Phragmites australis</em>. For this purpose, we integrated functional trait data from field surveys and a three-year common garden experiment to compare CSR scores between two typical populations of <em>P. australis</em> from western and eastern China. We further assessed the associations of CSR scores with latitude, bioclimatic factors, and phylogeographical sources using a global dataset including two invaded lineages in North America. We found that competitor scores were positively correlated with latitude, whereas stress tolerator scores were negatively correlated. Competitor scores were positively correlated with bioclimatic factors, even when controlling for phylogeny. All CSR scores displayed significant phylogenetic signals, with the invasive lineage in the higher latitudes (haplotype M) exhibiting higher stress tolerator scores than the native lineage. Differences in competitor and stress tolerator scores between western and eastern Chinese populations of <em>P. australis</em> were consistent across field and common garden experiments. Although intra-species variation in CSR strategy may be influenced by phylogenetic history, our finding that CSR strategy in <em>P. australis</em> populations is correlated with latitude suggests these plants have adapted to local climates along a latitudinal gradient.
+  </div>
+</div>
+
+
+
+
+
+
 Zhao, Y. J., Wang, S., Liao, Z. Y., Parepa, M., Zhang, L., Cao, P., Bi, J., **Guo, Y.**, Bossdorf, O., Richards, C., Wu, J., Li, B. & Ju, R.-T. (2024). Geographic variation in leaf traits and palatability of a native plant invader during domestic expansion. **_Ecology_**, 105(11), e4425.
 
 Yin, M., Zhang, X., Zhu, H., Sheng, W., Wu, Y., Jiang, D., Wen, Q., Shao, H., **Guo, Y.**, Wang, C., Ma, L., Yu, X., Brix, H., Liu, L. & Guo, W. (2024). Trade-offs between Cd bioconcentration and translocation and underlying physiological and rhizobacterial mechanisms in _Phragmites australis_. **_Journal of Environmental Management_**, 371, 123291.
