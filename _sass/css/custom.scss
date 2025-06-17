@@ -4,22 +4,20 @@
   margin-right: auto;
 }
 
-@media (min-width: 768px) {
-  .greedy-nav {
-    display: flex !important;
-    flex-wrap: nowrap !important;
-    align-items: center !important;
-  }
+.greedy-nav {
+  display: flex !important;
+  align-items: center !important;
+  flex-wrap: nowrap !important;
+}
 
-  .greedy-nav .visible-links {
-    display: flex !important;
-    flex-direction: row !important;
-    gap: 1.2rem;
-    align-items: center;
-  }
+.greedy-nav .visible-links {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center;
+  gap: 1.5rem;
+}
 
-  .greedy-nav button,
-  .greedy-nav .hidden-links {
-    display: none !important;
-  }
+.greedy-nav button,
+.greedy-nav .hidden-links {
+  display: none !important;
 }
