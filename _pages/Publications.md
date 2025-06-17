@@ -134,7 +134,7 @@ layout: single
     Lele Liu, Meiqi Yin, <strong>Yaolin Guo</strong>, Huijia Song, Xiao Guo, Weihua Guo
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <em>Plant Diversity</em>, 2025, <a href="https://doi.org/10.1016/j.pld.2025.06.001" target="_blank">https://doi.org/10.1016/j.pld.2025.06.001</a>
+    <em>Plant Diversity</em>, 2025
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
