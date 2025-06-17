@@ -173,6 +173,10 @@ layout: single
 
 
 
+
+
+
+
 Zhao, Y. J., Wang, S., Liao, Z. Y., Parepa, M., Zhang, L., Cao, P., Bi, J., **Guo, Y.**, Bossdorf, O., Richards, C., Wu, J., Li, B. & Ju, R.-T. (2024). Geographic variation in leaf traits and palatability of a native plant invader during domestic expansion. **_Ecology_**, 105(11), e4425.
 
 Yin, M., Zhang, X., Zhu, H., Sheng, W., Wu, Y., Jiang, D., Wen, Q., Shao, H., **Guo, Y.**, Wang, C., Ma, L., Yu, X., Brix, H., Liu, L. & Guo, W. (2024). Trade-offs between Cd bioconcentration and translocation and underlying physiological and rhizobacterial mechanisms in _Phragmites australis_. **_Journal of Environmental Management_**, 371, 123291.
