@@ -150,6 +150,28 @@ layout: single
 
 
 
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Effects of Phenotypic Plasticity and Genetic Variation on Plant Growth and Litter Decomposition in a Widespread Wetland Grass
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Wei Wei†, Qishen Wen†, Hong Zhu, Huijia Song, Xiya Zhang, Wenyi Sheng, Liujuan Xie, Xiao Guo, <strong>Yaolin Guo</strong>, Siyuan Ye, Yuzhi Wang, Lele Liu, Weihua Guo
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Diversity</em>, 2025
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Wei2025_Diversity.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.3390/d17040282" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Wetlands are crucial ecosystems that provide a wide range of ecological services, such as water purification, flood control, and carbon sequestration, where the diversity of wetland plants is fundamental to maintaining these functions. <em>Phragmites australis</em> is a globally widespread wetland grass with a high genetic diversity, exhibiting strong intraspecific variation across environmental gradients. While both phenotypic plasticity and genetic variation are recognized drivers of plant adaptation, their relative importance in mediating the growth and decomposition traits of wetland plants remains debated. Here, we surveyed the growth and litter traits of two lineages (haplotypes) of <em>P. australis</em> in two common gardens in eastern China. The leaf litter of <em>P. australis</em> was also collected from the field in two provinces where the two common gardens are located. Microcosm experiments were carried out to explore the litter decomposition ability. We found that the common garden (growth environment) significantly affected the growth performance (shoot diameter and height), leaf litter stoichiometric traits (contents of N and P), and the leaf decomposition over 180 days. The N content in the leaf litter from the higher-latitude province of Liaoning was greater than that from the lower-latitude province of Shandong, regardless of whether it was collected from the field or the common garden. The litter N and P contents were the key factors affecting the decomposition during the 180-day experiment. However, we did not find the effects of lineage (genetic variation) on the variation of these traits. The climatic factors of the genotype origin were significantly correlated with the growth traits but not the litter traits or decomposition rates. The findings indicate that <em>P. australis</em> in eastern temperate China primarily adapts through phenotypic plasticity rather than genetic variation, which is crucial for wetland resilience in a changing climate. This study underscores the pivotal role of environmental factors and phenotypic plasticity in <em>P. australis</em> growth and decomposition, suggesting that conservation efforts should prioritize the local environment over genetic variation for effective wetland management.
+  </div>
+</div>
+
+
+
 
 Zhao, Y. J., Wang, S., Liao, Z. Y., Parepa, M., Zhang, L., Cao, P., Bi, J., **Guo, Y.**, Bossdorf, O., Richards, C., Wu, J., Li, B. & Ju, R.-T. (2024). Geographic variation in leaf traits and palatability of a native plant invader during domestic expansion. **_Ecology_**, 105(11), e4425.
 
