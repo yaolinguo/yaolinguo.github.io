@@ -4,26 +4,22 @@
   margin-right: auto;
 }
 
-@media (min-width: 601px) {
-  .greedy-nav .visible-links {
+@media (min-width: 768px) {
+  .greedy-nav {
     display: flex !important;
     flex-wrap: nowrap !important;
     align-items: center !important;
   }
 
+  .greedy-nav .visible-links {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 1.2rem;
+    align-items: center;
+  }
+
   .greedy-nav button,
   .greedy-nav .hidden-links {
     display: none !important;
-  }
-}
-
-@media (max-width: 600px) {
-  .greedy-nav .visible-links {
-    display: table !important;
-  }
-
-  .greedy-nav button,
-  .greedy-nav .hidden-links {
-    display: block !important;
   }
 }
