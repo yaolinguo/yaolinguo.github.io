@@ -190,6 +190,25 @@ layout: single
 </div>
 
 
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Geographic variation in leaf traits and palatability of a native plant invader during domestic expansion
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Yu-Jie Zhao, Shengyu Wang, Zhi-Yong Liao, Madalin Parepa, Lei Zhang, Peipei Cao, Jingwen Bi, <strong>Yaolin Guo</strong>, Oliver Bossdorf, Christina L. Richards, Jihua Wu, Bo Li, Rui-Ting Ju
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Ecology</em>, 2024 · <a href="https://doi.org/10.1002/ecy.4425" target="_blank">https://doi.org/10.1002/ecy.4425</a>
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Zhao2024_Ecology.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1002/ecy.4425" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Like alien plant invasion, range expansion of native plants may threaten biodiversity and economies, rendering them native invaders. Variation in abiotic and biotic conditions across a large geographic scale greatly affects variation in traits and interactions with herbivores of native plant invaders, which is an interesting yet mostly unexplored issue. We used a common garden experiment to compare defensive/nutritional traits and palatability to generalist herbivores of 20 native (23.64° N–30.18° N) and introduced range (31.58° N–36.87° N) populations of <em>Reynoutria japonica</em>, which is a native invader following range expansion in China. We analyzed the relationships among herbivore pressure, climate, plant chloroplast haplotypes, leaf traits, and herbivore performance. Of the 16 variables tested, we observed range differences in 11 variables and latitudinal clines in nine variables. In general, herbivores performed better on the introduced plants than on the native plants, and better on the high-latitude plants than on the low-latitude plants within the introduced populations. Three key traits (leaf thickness, specific leaf area, and carbon-to-nitrogen [C:N] ratio) determined palatability to herbivores and were significantly associated with temperature and/or precipitation of plant provenance as well as with plant haplotypes but not with herbivore pressure. Our results revealed a causal sequence from plant-range-based environmental forces and genetic context to plant quality and palatability to herbivores in <em>R. japonica</em>. These findings suggest a post-introduction evolution of <em>R. japonica</em>, which may partly explain the colonization success of this important native, but invasive plant.
+  </div>
+</div>
 
 
 
