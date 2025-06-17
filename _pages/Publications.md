@@ -52,7 +52,7 @@ layout: single
     Rapid adaptive evolution of multidimensional traits in a widespread plant invader
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    J. Lu, <strong>Yaolin Guo</strong>, Christina L Richards, Linfeng Li, Jihua Wu, Bo Li, Rui-Ting Ju
+    Jinan Lu, <strong>Yaolin Guo</strong>, Christina L Richards, Linfeng Li, Jihua Wu, Bo Li, Rui-Ting Ju
   </p>
   <p style="margin: 0.25em 0 0 0;">
     <em>Submitted</em>, 2025
@@ -71,7 +71,7 @@ layout: single
     Silicon mediates geographic variation of herbivory-related traits in a widespread plant invader
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    J. Lu, <strong>Yaolin Guo</strong>, Yujie Zhao, Jihua Wu, Bo Li, Christina L Richards, Rui-Ting. Ju
+    Jinan Lu, <strong>Yaolin Guo</strong>, Yujie Zhao, Jihua Wu, Bo Li, Christina L Richards, Rui-Ting. Ju
   </p>
   <p style="margin: 0.25em 0 0 0;">
     <em>Submitted</em>, 2025
