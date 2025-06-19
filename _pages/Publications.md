@@ -253,6 +253,27 @@ layout: single
 </div>
 
 
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Nitrogen and phosphorus additions alter soil N transformations in a <em>Metasequoia glyptostroboides</em> plantation
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Youzheng Zhang, Pengcheng Jiang, <strong>Yaolin Guo</strong>, Ming Wu, Xuexin Shao, Hengtao Xu, Tonggui Wu, Wenwen Yuan, Niu Li
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Frontiers in Plant Science</em>, 2024
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Zhang2024_FronPlantSci.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.3389/fpls.2024.1448356" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Nitrogen (N) and phosphorus (P) enrichment due to anthropogenic activities can significantly affect soil N transformations in forest ecosystems. However, the effects of N and P additions on nitrification and denitrification processes in <em>Metasequoia glyptostroboides</em> plantations, an economically important forest type in China, remain poorly understood. This study investigated the responses of soil nitrification and denitrification rates, as well as the abundances of nitrifiers and denitrifiers, to different levels of N and P additions in a 6-year nutrient addition experiment in a <em>M. glyptostroboides</em> plantation. Stepwise multiple regression analysis was used to identify the main predictors of nitrification and denitrification rates. The results showed that moderate N addition stimulated nitrification rates and abundances of ammonia-oxidizing archaea (AOA) and bacteria (AOB), while excessive N and P additions inhibited denitrification rates and reduced the abundance of <em>nirS</em>-type denitrifiers. AOB abundance was the main predictor of nitrification rates under N additions, whereas microbial biomass carbon and <em>nirS</em> gene abundance were key factors controlling denitrification rates. Under P additions, tree growth parameters and AOB abundance were the primary predictors of nitrification and denitrification rates. Our study reveals complex interactions among nutrient inputs, plant growth, soil properties, and microbial communities in regulating soil N transformations in plantation forests, and offers valuable insights for nutrient management to enhance ecosystem function and health of <em>M. glyptostroboides</em> plantations under future nutrient deposition scenarios.
+  </div>
+</div>
+
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".toggle-abstract").forEach(function (button) {
