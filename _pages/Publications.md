@@ -81,7 +81,7 @@ layout: single
     Silicon mediates geographic variation of herbivory-related traits in a widespread plant invader
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    Jinan Lu, <strong>Yaolin Guo</strong>, Yujie Zhao, Jihua Wu, Bo Li, Christina L Richards, Rui-Ting. Ju
+    Jinan Lu, <strong>Yaolin Guo</strong>, Yujie Zhao, Jihua Wu, Bo Li, Christina L Richards, Rui-Ting Ju
   </p>
   <p style="margin: 0.25em 0 0 0;">
     <em>Submitted</em>, 2025
@@ -255,7 +255,7 @@ layout: single
     Genomic and phenotypic signatures provide insights into the wide adaptation of a global plant invader
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    Yan Hao, Xin-Feng Wang, <strong>Yaolin Guo</strong>, Ji-Hua Wu, Lin-Feng Li, Bo Li
+    Yan Hao, Xin-Feng Wang, <strong>Yaolin Guo</strong>, Tian-Yang Li, Ji Yang, Malika L Ainouche, Armel Salmon, Rui-Ting Ju, Ji-Hua Wu, Lin-Feng Li, Bo Li
   </p>
   <p style="margin: 0.25em 0 0 0;">
     <em>Plant Communications</em>, 2024
