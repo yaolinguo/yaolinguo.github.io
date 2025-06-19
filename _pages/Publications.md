@@ -186,6 +186,47 @@ layout: single
   </div>
 </div>
 
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Divergence in spatial patterns of leaf stoichiometry between native and non-native plants across coastal wetlands
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Youzheng Zhang†, <strong>Yaolin Guo†</strong>, Hui Wang, Niu Li, Hengtao Xu, Dongrong Zhang, Jian Qian, Yukun Hu
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Frontiers in Marine Science</em>, 2024
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Zhang2024_Frontiers.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.3389/fmars.2024.1425587" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    The spatial pattern of leaf stoichiometry is critical in predicting plant palatability and ecosystem productivity and nutrient cycling rates and thus is a major focus of community ecological research. Coastal wetlands as vital blue carbon ecosystems, with high possibility to be vulnerable to plant invasion, studies focused on stoichiometry and its pattern are important to unveil the elements cycling process. However, previous studies have mainly focused on stoichiometry in terrestrial ecosystems, there are few studies conducted on coastal wetland ecosystems, especially the studies that compare leaf stoichiometry between native and non-native plants in coastal wetlands. In this study, we compared the latitudinal patterns of leaf nutrient contents and their stoichiometric ratios between native and non-native plant species across coastal wetland ecosystems and investigated whether leaf stoichiometric patterns were driven by climatic factors. We used a compiled global data set of 954 records to conduct a systematic meta-analysis. The results showed that there were significant differences in latitudinal patterns of leaf carbon (C) and nitrogen (N) contents and C:N ratio between native and non-native species, as well as significant differences in leaf C, N, and phosphorus (P) contents. For native species, we found significant latitudinal patterns in leaf C, N, and P contents and C:N and C:P ratios, whereas for non-native species, we found significant latitudinal patterns in leaf N content and C:P and N:P ratios. Mean annual temperature of the data collection site was a significant predictor of leaf stoichiometry of native plants but only of leaf N content and C:P ratio of non-native plants. Thus, we demonstrated spatial heterogeneity in leaf stoichiometries between native and non-native plants in coastal wetlands, indicating that such differences should be emphasized in future biogeochemical models and plant-herbivore interaction studies owing to the important role of wetland plants in global C, N, and P cycles. Our findings increase understanding of plant-related nutrient and elements cycling in coastal wetlands, as well as improve predictions of plant growth rates and vegetation productivity across large scales under plant invasion scenarios.
+  </div>
+</div>
+
+
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Genomic and phenotypic signatures provide insights into the wide adaptation of a global plant invader
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Yan Hao, Xin-Feng Wang, <strong>Yaolin Guo</strong>, Tian-Yang Li, Ji Yang, Malika L Ainouche, Armel Salmon, Rui-Ting Ju, Ji-Hua Wu, Lin-Feng Li, Bo Li
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Plant Communications</em>, 2024
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Hao2024_PlantComms.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1016/j.xplc.2024.100820" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Invasive alien species are primary drivers of biodiversity loss and species extinction. Smooth cordgrass (<em>Spartina alterniflora</em>) is one of the most aggressive invasive plants in coastal ecosystems around the world. However, the genomic bases and evolutionary mechanisms underlying its invasion success have remained largely unknown. Here, we assembled a chromosome-level reference genome and performed phenotypic and population genomic analyses between native US and introduced Chinese populations. Our phenotypic comparisons showed that introduced Chinese populations have evolved competitive traits, such as early flowering time and greater plant biomass, during secondary introductions along China’s coast. Population genomic and transcriptomic inferences revealed distinct evolutionary trajectories of low- and high-latitude Chinese populations. In particular, genetic mixture among different source populations, together with independent natural selection acting on distinct target genes, may have resulted in high genome dynamics of the introduced Chinese populations. Our study provides novel phenotypic and genomic evidence showing how <em>Spartina alterniflora</em> rapidly adapts to variable environmental conditions in its introduced ranges. Moreover, candidate genes related to flowering time, fast growth, and stress tolerance (i.e., salinity and submergence) provide valuable genetic resources for future improvement of cereal crops.
+  </div>
+</div>
+
 
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
@@ -225,48 +266,6 @@ layout: single
   </div>
   <div class="abstract-box" style="display: none; font-size: 0.90em;">
     Like alien plant invasion, range expansion of native plants may threaten biodiversity and economies, rendering them native invaders. Variation in abiotic and biotic conditions across a large geographic scale greatly affects variation in traits and interactions with herbivores of native plant invaders, which is an interesting yet mostly unexplored issue. We used a common garden experiment to compare defensive/nutritional traits and palatability to generalist herbivores of 20 native (23.64° N–30.18° N) and introduced range (31.58° N–36.87° N) populations of <em>Reynoutria japonica</em>, which is a native invader following range expansion in China. We analyzed the relationships among herbivore pressure, climate, plant chloroplast haplotypes, leaf traits, and herbivore performance. Of the 16 variables tested, we observed range differences in 11 variables and latitudinal clines in nine variables. In general, herbivores performed better on the introduced plants than on the native plants, and better on the high-latitude plants than on the low-latitude plants within the introduced populations. Three key traits (leaf thickness, specific leaf area, and carbon-to-nitrogen [C:N] ratio) determined palatability to herbivores and were significantly associated with temperature and/or precipitation of plant provenance as well as with plant haplotypes but not with herbivore pressure. Our results revealed a causal sequence from plant-range-based environmental forces and genetic context to plant quality and palatability to herbivores in <em>R. japonica</em>. These findings suggest a post-introduction evolution of <em>R. japonica</em>, which may partly explain the colonization success of this important native, but invasive plant.
-  </div>
-</div>
-
-
-<div style="line-height: 1.25; margin-bottom: 1.5em;">
-  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
-    Divergence in spatial patterns of leaf stoichiometry between native and non-native plants across coastal wetlands
-  </p>
-  <p style="margin: 0.25em 0 0 0;">
-    Youzheng Zhang†, <strong>Yaolin Guo†</strong>, Hui Wang, Niu Li, Hengtao Xu, Dongrong Zhang, Jian Qian, Yukun Hu
-  </p>
-  <p style="margin: 0.25em 0 0 0;">
-    <em>Frontiers in Marine Science</em>, 2024
-  </p>
-  <div style="margin: 0.5em 0;">
-    <button class="btn toggle-abstract">ABSTRACT</button>
-    <a href="/assets/papers/Zhang2024_Frontiers.pdf" class="btn" target="_blank">PDF</a>
-    <a href="https://doi.org/10.3389/fmars.2024.1425587" class="btn" target="_blank">↗</a>
-  </div>
-  <div class="abstract-box" style="display: none; font-size: 0.90em;">
-    The spatial pattern of leaf stoichiometry is critical in predicting plant palatability and ecosystem productivity and nutrient cycling rates and thus is a major focus of community ecological research. Coastal wetlands as vital blue carbon ecosystems, with high possibility to be vulnerable to plant invasion, studies focused on stoichiometry and its pattern are important to unveil the elements cycling process. However, previous studies have mainly focused on stoichiometry in terrestrial ecosystems, there are few studies conducted on coastal wetland ecosystems, especially the studies that compare leaf stoichiometry between native and non-native plants in coastal wetlands. In this study, we compared the latitudinal patterns of leaf nutrient contents and their stoichiometric ratios between native and non-native plant species across coastal wetland ecosystems and investigated whether leaf stoichiometric patterns were driven by climatic factors. We used a compiled global data set of 954 records to conduct a systematic meta-analysis. The results showed that there were significant differences in latitudinal patterns of leaf carbon (C) and nitrogen (N) contents and C:N ratio between native and non-native species, as well as significant differences in leaf C, N, and phosphorus (P) contents. For native species, we found significant latitudinal patterns in leaf C, N, and P contents and C:N and C:P ratios, whereas for non-native species, we found significant latitudinal patterns in leaf N content and C:P and N:P ratios. Mean annual temperature of the data collection site was a significant predictor of leaf stoichiometry of native plants but only of leaf N content and C:P ratio of non-native plants. Thus, we demonstrated spatial heterogeneity in leaf stoichiometries between native and non-native plants in coastal wetlands, indicating that such differences should be emphasized in future biogeochemical models and plant-herbivore interaction studies owing to the important role of wetland plants in global C, N, and P cycles. Our findings increase understanding of plant-related nutrient and elements cycling in coastal wetlands, as well as improve predictions of plant growth rates and vegetation productivity across large scales under plant invasion scenarios.
-  </div>
-</div>
-
-
-<div style="line-height: 1.25; margin-bottom: 1.5em;">
-  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
-    Genomic and phenotypic signatures provide insights into the wide adaptation of a global plant invader
-  </p>
-  <p style="margin: 0.25em 0 0 0;">
-    Yan Hao, Xin-Feng Wang, <strong>Yaolin Guo</strong>, Tian-Yang Li, Ji Yang, Malika L Ainouche, Armel Salmon, Rui-Ting Ju, Ji-Hua Wu, Lin-Feng Li, Bo Li
-  </p>
-  <p style="margin: 0.25em 0 0 0;">
-    <em>Plant Communications</em>, 2024
-  </p>
-  <div style="margin: 0.5em 0;">
-    <button class="btn toggle-abstract">ABSTRACT</button>
-    <a href="/assets/papers/Hao2024_PlantComms.pdf" class="btn" target="_blank">PDF</a>
-    <a href="https://doi.org/10.1016/j.xplc.2024.100820" class="btn" target="_blank">↗</a>
-  </div>
-  <div class="abstract-box" style="display: none; font-size: 0.90em;">
-    Invasive alien species are primary drivers of biodiversity loss and species extinction. Smooth cordgrass (<em>Spartina alterniflora</em>) is one of the most aggressive invasive plants in coastal ecosystems around the world. However, the genomic bases and evolutionary mechanisms underlying its invasion success have remained largely unknown. Here, we assembled a chromosome-level reference genome and performed phenotypic and population genomic analyses between native US and introduced Chinese populations. Our phenotypic comparisons showed that introduced Chinese populations have evolved competitive traits, such as early flowering time and greater plant biomass, during secondary introductions along China’s coast. Population genomic and transcriptomic inferences revealed distinct evolutionary trajectories of low- and high-latitude Chinese populations. In particular, genetic mixture among different source populations, together with independent natural selection acting on distinct target genes, may have resulted in high genome dynamics of the introduced Chinese populations. Our study provides novel phenotypic and genomic evidence showing how <em>Spartina alterniflora</em> rapidly adapts to variable environmental conditions in its introduced ranges. Moreover, candidate genes related to flowering time, fast growth, and stress tolerance (i.e., salinity and submergence) provide valuable genetic resources for future improvement of cereal crops.
   </div>
 </div>
 
