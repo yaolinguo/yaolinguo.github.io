@@ -150,6 +150,27 @@ layout: single
 
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Revealing biogeographic patterns in genetic diversity of native and invasive plants and their association with soil community diversity in the Chinese coast
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Lele Liu, <strong>Yaolin Guo</strong>, Yiming Wu, Meiqi Yin, Xiao Guo, Franziska Eller, Christina L. Richards, Hans Brix, Rui-Ting Ju, Weihua Guo
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Oikos</em>, 2024
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Liu2024_Oikos.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1111/oik.10116" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Within-species genetic diversity is shaped by multiple evolutionary forces within the confines of geography, and has cascading effects on the biodiversity of other taxa and levels. Invasive species are often initially limited in genetic diversity but still respond rapidly to their new range, possibly through ‘pre-adapted’ genotypes or multiple sources of genetic diversity, but little is known about how their genetic structure differs from that of native species and how it alters the genetic-species diversity relationship. Here, we selected a widespread native species <em>Phragmites australis</em> and its co-occurring invasive competitor <em>Spartina alterniflora</em> as our model plant species. We investigated the genetic structure of <em>P. australis</em> using two chloroplast fragments and ten nuclear microsatellites in 13 populations along the Chinese coastal wetlands. We discovered a distinct geographical differentiation, showing that the northern and southern populations harbored unique genotypes. We also found a significant increase in genetic diversity (allelic richness and expected heterozygosity) from south to north. Combined with previous studies of <em>S. alterniflora</em>, the Mantel tests revealed a significant correlation of genetic distances between <em>P. australis</em> and <em>S. alterniflora</em> even when controlling for geographic distance, suggesting that the invasive species <em>S. alterniflora</em> might exhibit a phylogeographic pattern similar to that of the native species to some extent. Furthermore, our results suggest that the <em>S. alterniflora</em> invasion has altered the relationship between the genetic diversity of the dominant native plant and the associated species richness of soil nematodes. The reason for the alteration of genetic-species diversity relationship might be that the biological invasion weakens the environmental impact on both levels of biodiversity. Our findings contribute to understanding the latitudinal patterns of intraspecific genetic diversity in widespread species. This work on the genetic diversity analysis of native species also provides significant implications for the invasion stage and ecological consequences of biological invasions.
+  </div>
+</div>
+
+
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
     Effects of phenotypic plasticity and genetic variation on plant growth and litter decomposition in a widespread wetland grass
   </p>
   <p style="margin: 0.25em 0 0 0;">
