@@ -232,6 +232,27 @@ layout: single
 </div>
 
 
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Genomic and phenotypic signatures provide insights into the wide adaptation of a global plant invader
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Yan Hao, Xin-Feng Wang, <strong>Yaolin Guo</strong>, Ji-Hua Wu, Lin-Feng Li, Bo Li
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Plant Communications</em>, 2024, Volume 5, Issue 4 · <a href="https://doi.org/10.1016/j.xplc.2024.100820" target="_blank">https://doi.org/10.1016/j.xplc.2024.100820</a>
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Hao2024_PlantComms.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1016/j.xplc.2024.100820" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Invasive alien species are primary drivers of biodiversity loss and species extinction. Smooth cordgrass (<em>Spartina alterniflora</em>) is one of the most aggressive invasive plants in coastal ecosystems around the world. However, the genomic bases and evolutionary mechanisms underlying its invasion success have remained largely unknown. Here, we assembled a chromosome-level reference genome and performed phenotypic and population genomic analyses between native US and introduced Chinese populations. Our phenotypic comparisons showed that introduced Chinese populations have evolved competitive traits, such as early flowering time and greater plant biomass, during secondary introductions along China’s coast. Population genomic and transcriptomic inferences revealed distinct evolutionary trajectories of low- and high-latitude Chinese populations. In particular, genetic mixture among different source populations, together with independent natural selection acting on distinct target genes, may have resulted in high genome dynamics of the introduced Chinese populations. Our study provides novel phenotypic and genomic evidence showing how <em>Spartina alterniflora</em> rapidly adapts to variable environmental conditions in its introduced ranges. Moreover, candidate genes related to flowering time, fast growth, and stress tolerance (i.e., salinity and submergence) provide valuable genetic resources for future improvement of cereal crops.
+  </div>
+</div>
+
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".toggle-abstract").forEach(function (button) {
