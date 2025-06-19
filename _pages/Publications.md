@@ -230,6 +230,48 @@ layout: single
 
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Restoration of native saltmarshes can reverse arthropod assemblages and trophic interactions changed by a plant invasion
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Jia-Jia Jiang, Yu-Jie Zhao, <strong>Yaolin Guo</strong>, Lei Gao, Christina L Richards, Evan Siemann, Jihua Wu, Bo Li, Rui-Ting Ju
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Ecological Applications</em>, 2022
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Jiang2022_EcolAppl.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1002/eap.2740" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Plant invasions profoundly impact both natural and managed ecosystems, and removal of the invasive plants addresses only part of the problem of restoring impacted areas. The rehabilitation of diverse communities and their ecosystem functions following removal of invasive plants is an important goal of ecological restoration. Arthropod assemblages and trophic interactions are important indicators of the success of restoration, but they have largely been overlooked in saltmarshes. We determined how arthropod assemblages and trophic interactions changed with the invasion of the exotic plant <em>Spartina alterniflora</em> and with the restoration of the native plant <em>Phragmites australis</em> following <em>Spartina</em> removal in a Chinese saltmarsh. We investigated multiple biotic and abiotic variables to gain insight into the factors underlying the changes in arthropod assemblages and trophic structure. We found that although <em>Spartina</em> invasion had changed arthropod diversity, community structure, feeding-guild composition, and the diets of arthropod natural enemies in the saltmarsh, these changes could be reversed by the restoration of native <em>Phragmites</em> vegetation. The variation in arthropod assemblages and trophic structure were critically associated with four biotic and abiotic variables (aboveground biomass, plant density, leaf N, and soil salinity). Our findings demonstrate the positive effects of controlling invasive plants on biodiversity and nutrient cycling and provide a foundation for assessing the efficacy of ecological restoration projects in saltmarshes.
+  </div>
+</div>
+
+
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
+    Nitrogen and phosphorus additions alter soil N transformations in a <em>Metasequoia glyptostroboides</em> plantation
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    Youzheng Zhang, Pengcheng Jiang, <strong>Yaolin Guo</strong>, Ming Wu, Xuexin Shao, Hengtao Xu, Tonggui Wu, Wenwen Yuan, Niu Li
+  </p>
+  <p style="margin: 0.25em 0 0 0;">
+    <em>Frontiers in Plant Science</em>, 2024
+  </p>
+  <div style="margin: 0.5em 0;">
+    <button class="btn toggle-abstract">ABSTRACT</button>
+    <a href="/assets/papers/Zhang2024_FronPlantSci.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.3389/fpls.2024.1448356" class="btn" target="_blank">↗</a>
+  </div>
+  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+    Nitrogen (N) and phosphorus (P) enrichment due to anthropogenic activities can significantly affect soil N transformations in forest ecosystems. However, the effects of N and P additions on nitrification and denitrification processes in <em>Metasequoia glyptostroboides</em> plantations, an economically important forest type in China, remain poorly understood. This study investigated the responses of soil nitrification and denitrification rates, as well as the abundances of nitrifiers and denitrifiers, to different levels of N and P additions in a 6-year nutrient addition experiment in a <em>M. glyptostroboides</em> plantation. Stepwise multiple regression analysis was used to identify the main predictors of nitrification and denitrification rates. The results showed that moderate N addition stimulated nitrification rates and abundances of ammonia-oxidizing archaea (AOA) and bacteria (AOB), while excessive N and P additions inhibited denitrification rates and reduced the abundance of <em>nirS</em>-type denitrifiers. AOB abundance was the main predictor of nitrification rates under N additions, whereas microbial biomass carbon and <em>nirS</em> gene abundance were key factors controlling denitrification rates. Under P additions, tree growth parameters and AOB abundance were the primary predictors of nitrification and denitrification rates. Our study reveals complex interactions among nutrient inputs, plant growth, soil properties, and microbial communities in regulating soil N transformations in plantation forests, and offers valuable insights for nutrient management to enhance ecosystem function and health of <em>M. glyptostroboides</em> plantations under future nutrient deposition scenarios.
+  </div>
+</div>
+
+
+<div style="line-height: 1.25; margin-bottom: 1.5em;">
+  <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
     Trade-offs between Cd bioconcentration and translocation and underlying physiological and rhizobacterial mechanisms in <em>Phragmites australis</em>
   </p>
   <p style="margin: 0.25em 0 0 0;">
@@ -272,21 +314,21 @@ layout: single
 
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
   <p style="font-weight: bold; font-size: 1.05em; margin: 0;">
-    Nitrogen and phosphorus additions alter soil N transformations in a <em>Metasequoia glyptostroboides</em> plantation
+    Geographic variation of litter chemistry and palatability in an invasive plant versus its native competitor
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    Youzheng Zhang, Pengcheng Jiang, <strong>Yaolin Guo</strong>, Ming Wu, Xuexin Shao, Hengtao Xu, Tonggui Wu, Wenwen Yuan, Niu Li
+    <strong>Yaolin Guo†</strong>, Youzheng Zhang†, Jihua Wu, Christina L Richards, Oliver Bossdorf, Bo Li, Rui-Ting Ju
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <em>Frontiers in Plant Science</em>, 2024
+    <em>Journal of Biogeography</em>, 2023
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
-    <a href="/assets/papers/Zhang2024_FronPlantSci.pdf" class="btn" target="_blank">PDF</a>
-    <a href="https://doi.org/10.3389/fpls.2024.1448356" class="btn" target="_blank">↗</a>
+    <a href="/assets/papers/Guo2023_JBiogeo.pdf" class="btn" target="_blank">PDF</a>
+    <a href="https://doi.org/10.1111/jbi.14604" class="btn" target="_blank">↗</a>
   </div>
   <div class="abstract-box" style="display: none; font-size: 0.90em;">
-    Nitrogen (N) and phosphorus (P) enrichment due to anthropogenic activities can significantly affect soil N transformations in forest ecosystems. However, the effects of N and P additions on nitrification and denitrification processes in <em>Metasequoia glyptostroboides</em> plantations, an economically important forest type in China, remain poorly understood. This study investigated the responses of soil nitrification and denitrification rates, as well as the abundances of nitrifiers and denitrifiers, to different levels of N and P additions in a 6-year nutrient addition experiment in a <em>M. glyptostroboides</em> plantation. Stepwise multiple regression analysis was used to identify the main predictors of nitrification and denitrification rates. The results showed that moderate N addition stimulated nitrification rates and abundances of ammonia-oxidizing archaea (AOA) and bacteria (AOB), while excessive N and P additions inhibited denitrification rates and reduced the abundance of <em>nirS</em>-type denitrifiers. AOB abundance was the main predictor of nitrification rates under N additions, whereas microbial biomass carbon and <em>nirS</em> gene abundance were key factors controlling denitrification rates. Under P additions, tree growth parameters and AOB abundance were the primary predictors of nitrification and denitrification rates. Our study reveals complex interactions among nutrient inputs, plant growth, soil properties, and microbial communities in regulating soil N transformations in plantation forests, and offers valuable insights for nutrient management to enhance ecosystem function and health of <em>M. glyptostroboides</em> plantations under future nutrient deposition scenarios.
+    Latitudinal variation in biotic interactions is recognized as a driver underlying variation in plant invasion success and therefore an important issue in conservation biogeography. However, previous studies have mainly focused on interactions between living plants and herbivores, whereas litter traits and detritivory have been hardly studied along latitude or compared between native and invasive plants. Our aim was to compare latitudinal variation in leaf litter chemistry and palatability to detritivores between invasive and native plants, and investigate which chemical traits determine detritivory and whether they are climate-driven. We combined field surveys with laboratory experiments to compare latitudinal variation in litter chemistry between the widespread invasive <em>Spartina alterniflora</em> and its native competitor <em>Phragmites australis</em> across their co-occurring range (~2200 km). For both species, we examined litter palatability to two common detritivores (<em>Porcellio laevis</em> and <em>Chiromantes dehaani</em>) along the same latitude. We also analysed relationships among climate, litter traits, and detritivory. In five of nine litter traits, we found latitudinal clines, with little difference between the two plant species in how they responded across the gradient. Litter palatability decreased with increasing latitude, but was generally higher in <em>Spartina</em> than <em>Phragmites</em>. Two key litter traits (C:P ratio and flavonoid content) were significantly associated with temperature of origin and with detritivory. There were geographic clines in litter traits and palatability, with strong links between climate, litter chemistry and detritivory, in both <em>Spartina</em> and <em>Phragmites</em>. <em>Spartina</em> litter, however, was more rapidly decomposed by detritivores, which could create positive feedbacks, and contributes to the successful <em>Spartina</em> invasion along China's coast. Future ecological restoration projects should therefore dispose <em>Spartina</em> plant tissue or litter off-site, to reduce the competitiveness of <em>Spartina</em> and support the conservation of native <em>Phragmites</em>.
   </div>
 </div>
 
