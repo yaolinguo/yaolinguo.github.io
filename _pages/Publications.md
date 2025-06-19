@@ -240,7 +240,7 @@ layout: single
     Yan Hao, Xin-Feng Wang, <strong>Yaolin Guo</strong>, Ji-Hua Wu, Lin-Feng Li, Bo Li
   </p>
   <p style="margin: 0.25em 0 0 0;">
-    <em>Plant Communications</em>, 2024, Volume 5, Issue 4 · <a href="https://doi.org/10.1016/j.xplc.2024.100820" target="_blank">https://doi.org/10.1016/j.xplc.2024.100820</a>
+    <em>Plant Communications</em>, 2024
   </p>
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
