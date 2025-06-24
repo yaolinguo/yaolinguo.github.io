@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Plant Ecology"
+title                    : "Yaolin Guo Ph.D."
 custom_css:
   - /assets/css/custom.css
 title_separator          : "-"
