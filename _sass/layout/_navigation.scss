@@ -442,21 +442,3 @@
     }
   }
 }
-
-// —— 顶部主导航右对齐 —— 
-.greedy-nav {
-  @include container;        // 限制宽度并居中
-  display: flex;             // 打开 Flex 布局
-  justify-content: flex-end; // 整个导航内容靠右
-  align-items: center;       // 链接垂直居中
-
-  .visible-links {
-    display: flex;           // 子链接用 flex 排列
-    li {
-      display: block;        // 每项当作 flex item
-      margin-left: 1.5rem;   // 链接之间加点间距
-    }
-  }
-
-  // 如果你有隐藏的下拉菜单（.hidden-links），不需要改动
-}
