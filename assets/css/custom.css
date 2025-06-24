@@ -1,19 +1,15 @@
-.navbar-nav li a[href="publications"] {
-  margin-left: 200px; /* 导航栏调整 */
-}
-
 /* 清除 details 摘要按钮前多余的空行 */
 details {
   margin-top: 0 !important;
   margin-bottom: 0.5em;
   padding: 0 !important;
 }
-
 details summary {
   margin: 0 !important;
   padding: 0 !important;
 }
 
+/* 按钮样式 */
 .btn {
   display: inline-block;
   padding: 5px 12px;
@@ -30,4 +26,25 @@ details summary {
 }
 .btn:hover {
   background-color: #eee;
+}
+
+/* —— 下面才是对齐关键 —— */
+
+/* 全站共用的居中容器 */
+.container {
+  max-width: 1200px;     /* 根据需要调整 */
+  margin: 0 auto;        /* 自动居中 */
+  padding: 0 2rem;       /* 左右留白 */
+}
+
+/* 清除导航列表默认内外边距，并横向排列 */
+/* 这里用 .navbar-nav（或者 .site-nav），择其一即可 */
+.navbar-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+.navbar-nav li + li {
+  margin-left: 1.5rem;   /* 导航项间距 */
 }
