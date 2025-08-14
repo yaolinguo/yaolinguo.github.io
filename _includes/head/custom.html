@@ -12,50 +12,16 @@
 <meta name="theme-color" content="#ffffff"/>
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- Support for MathJax -->
+<!-- Support for MatJax -->
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <!-- end custom head snippets -->
 
 <style>
-/* 让导航栏与正文同宽并居中（数值可按你正文容器微调） */
-.masthead__inner-wrap{
-  max-width: 1100px;       /* 与正文容器保持一致 */
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-/* 取消之前对菜单项的整体右移 */
-ul.visible-links li:not(:first-child){ transform: none !important; }
-
-/* 标题在一行显示，字重与间距更稳 */
-.site-title{
-  display: flex;
-  align-items: baseline;
-  gap: .5rem;
-  white-space: nowrap;   /* 禁止“Yaolin Guo Ph.D.”中间换行 */
-  font-weight: 600;
-}
-
-/* === Option A（可选）：自动给标题加一个 PhD 徽标 ===
-   使用前先把 _config.yml 的 title 改为纯名字：title: "Yaolin Guo"
-   然后把下面这段解除注释
-*/
-/*
-.site-title::after{
-  content: "PhD";  /* 想用 “Ph.D.” 就改成 "Ph.D." */
-  font-size: .75rem; line-height: 1;
-  padding: .15rem .45rem;
-  border: 1px solid currentColor;
-  border-radius: 999px;
-  text-transform: uppercase;
-  letter-spacing: .06em;
-  opacity: .75;
-}
-*/
-
-/* 全站字体（可选） */
-body{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
+  .masthead__menu li {
+  }
+  ul.visible-links li:not(:first-child) {
+    transform: translateX(2.7rem) !important;
+  }
+</style>
