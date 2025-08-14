@@ -27,6 +27,17 @@
     flex: 1 1 auto;                  /* 吃到剩余宽度 */
   }
 
+  /* 取消导航栏加粗，包括当前激活项 */
+.greedy-nav a,
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a,
+.greedy-nav .visible-links a.active,
+.greedy-nav .visible-links a:focus,
+.greedy-nav .visible-links a:visited,
+.greedy-nav .visible-links a:link,
+.greedy-nav .visible-links a:active {
+  font-weight: normal !important;
+}
   .site-title {
     flex: 0 0 auto;                  /* 标题用它自己需要的宽度 */
   }
