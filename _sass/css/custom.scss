@@ -74,3 +74,20 @@ p, li, blockquote {
   .navbar-brand, .site-title { font-size: 1rem; }
   .brand-badge{ font-size: .65rem; padding: .1rem .35rem; }
 }
+/* 永远展开导航栏，隐藏三条杠按钮 */
+.greedy-nav .visible-links {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+}
+
+.greedy-nav .hidden-links {
+  display: flex !important; /* 把隐藏的菜单也强制显示 */
+}
+
+.greedy-nav .hidden-links li {
+  display: list-item !important; /* 确保列表项可见 */
+}
+
+.greedy-nav button {
+  display: none !important; /* 隐藏三条杠按钮 */
+}
