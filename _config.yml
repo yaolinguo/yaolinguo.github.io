@@ -10,8 +10,8 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Yaolin Guo Ph.D."
-#custom_css:
-#  - /assets/css/custom.css
+custom_css:
+  - /assets/css/custom.css
 title_separator          : "-"
 name                     : &name "Yaolin Guo"
 description              : &description "personal description"
