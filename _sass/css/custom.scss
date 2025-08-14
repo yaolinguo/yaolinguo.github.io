@@ -1,27 +1,4 @@
-.masthead__inner-wrap,
-.page__content {
-  margin-left: 2rem;
-  margin-right: auto;
-}
-
-.greedy-nav {
-  display: flex !important;
-  align-items: center !important;
-  flex-wrap: nowrap !important;
-}
-
-.greedy-nav .visible-links {
-  display: flex !important;
-  flex-direction: row !important;
-  align-items: center;
-  gap: 1.5rem;
-}
-
-.greedy-nav button,
-.greedy-nav .hidden-links {
-  display: none !important;
-}
-
+/* ======= 全站字体统一 ======= */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
@@ -31,34 +8,62 @@ p, li, blockquote {
   font-family: inherit !important;
 }
 
-.site-header {
-  display: flex;
+/* ======= 容器居中 ======= */
+.masthead__inner-wrap {
+  max-width: 1200px;   /* 和正文同宽 */
+  margin: 0 auto;      /* 居中 */
+  padding: 0 2rem;     /* 内边距，防止贴边 */
+}
+
+.page__content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* ======= 导航栏布局 ======= */
+.greedy-nav {
+  display: flex !important;
+  align-items: center !important;
+  flex-wrap: nowrap !important;
+}
+
+/* 永远显示所有菜单项 */
+.greedy-nav .visible-links {
+  display: flex !important;
+  flex-wrap: nowrap !important;
   align-items: center;
-  justify-content: space-between;
-  padding: 0.5rem 2rem;
+  gap: 1.5rem;
 }
 
-.site-title {
-  font-size: 1.25rem;
-  font-weight: bold;
-  margin-right: 2rem;
-  text-decoration: none;
-  color: inherit;
+.greedy-nav .hidden-links {
+  display: flex !important; /* 强制显示隐藏菜单 */
 }
 
-/* —— 标题排版清理 —— */
+.greedy-nav .hidden-links li {
+  display: list-item !important;
+}
+
+/* 隐藏三条杠按钮 */
+.greedy-nav button {
+  display: none !important;
+}
+
+/* ======= 标题排版 ======= */
 .navbar-brand, .site-title {
   display: flex !important;
   align-items: baseline;
   gap: .5rem;
-  white-space: nowrap;          /* 防止“Yaolin Guo PhD”在中间断行 */
+  white-space: nowrap; /* 防止断行 */
   font-weight: 600;
 }
 
-.brand-name { letter-spacing: .2px; }
+.brand-name {
+  letter-spacing: .2px;
+}
 
-/* 学位做成小徽标，弱化但不消失 */
-.brand-badge{
+/* 学位徽标 */
+.brand-badge {
   font-size: .75rem;
   line-height: 1;
   padding: .15rem .45rem;
@@ -72,22 +77,5 @@ p, li, blockquote {
 /* 窄屏自适应 */
 @media (max-width: 576px){
   .navbar-brand, .site-title { font-size: 1rem; }
-  .brand-badge{ font-size: .65rem; padding: .1rem .35rem; }
-}
-/* 永远展开导航栏，隐藏三条杠按钮 */
-.greedy-nav .visible-links {
-  display: flex !important;
-  flex-wrap: nowrap !important;
-}
-
-.greedy-nav .hidden-links {
-  display: flex !important; /* 把隐藏的菜单也强制显示 */
-}
-
-.greedy-nav .hidden-links li {
-  display: list-item !important; /* 确保列表项可见 */
-}
-
-.greedy-nav button {
-  display: none !important; /* 隐藏三条杠按钮 */
+  .brand-badge { font-size: .65rem; padding: .1rem .35rem; }
 }
