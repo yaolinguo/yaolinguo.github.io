@@ -1,5 +1,3 @@
-/* ========== 顶部导航：干净版本（请整体替换你现在的 custom.css） ========== */
-
 /* 桌面端：标题在左，导航在右 */
 @media (min-width: 900px) {
   .masthead__inner-wrap {
@@ -35,8 +33,7 @@
   margin-right: 3.5rem !important;  /* 想更大就调这里，比如 4rem */
 }
 
-/* —— 重要：中和你之前“把第一个推到最右”的规则 —— */
-/* 你之前写过 .greedy-nav .visible-links li:first-child { margin-left:auto; } */
+/* 如果你之前写过“把第一个菜单推到最右”的规则，这里中和掉 */
 .greedy-nav .visible-links li:first-child {
   margin-left: 0 !important;
 }
