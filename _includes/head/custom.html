@@ -26,3 +26,39 @@
   }
 </style>
 
+/* 顶部标题和导航菜单同一水平线，并与头像对齐 */
+.masthead__inner-wrap {
+  max-width: 1100px; /* 视需要调整，与正文宽度保持一致 */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  display: flex;
+  align-items: center; /* 垂直居中标题和菜单 */
+  justify-content: space-between;
+}
+
+/* 标题和菜单同行显示，禁止换行 */
+.site-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  white-space: nowrap;
+  font-weight: 600;
+  margin: 0; /* 去掉默认 margin */
+}
+
+/* 让菜单和 About me 左侧对齐 */
+.greedy-nav .visible-links {
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.5rem;
+  margin-left: 0; /* 保证和正文对齐 */
+}
+
+/* 调整导航栏下边距，使 Research 与 About me 对齐 */
+.page__content {
+  margin-top: 0; /* 避免额外空白 */
+}
+
