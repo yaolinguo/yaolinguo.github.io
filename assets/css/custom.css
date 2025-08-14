@@ -1,73 +1,42 @@
-/* 桌面端：标题与导航同一行，导航靠右 */
-@media (min-width: 900px) {
-  /* 让标题和导航成为一个横向 flex 容器 */
-  .masthead__inner-wrap {
-    display: flex;
-    align-items: center;   /* 垂直对齐基线 */
-    gap: 1.25rem;          /* 标题与导航之间留一点间距，可调 */
-  }
+/* ========== 顶部导航：干净版本（请整体替换你现在的 custom.css） ========== */
 
-  /* 可选：确保导航一行不换行（通常不需要） */
-  #site-nav .visible-links {
-    white-space: nowrap;
-  }
-}
-
-/* 让 Research 靠右 */
-.greedy-nav .visible-links li:first-child {
-  margin-left: auto;
-}
-
-/* 桌面端：标题在左，导航在右；同时给 nav 足够的可用宽度 */
+/* 桌面端：标题在左，导航在右 */
 @media (min-width: 900px) {
   .masthead__inner-wrap {
     display: flex;
     align-items: center;
-    justify-content: space-between;  /* 关键：两端对齐 */
-    gap: 1rem;                       /* 视需求可调 0.5–1.5rem */
+    justify-content: space-between;  /* 两端对齐 */
+    gap: 1rem;
   }
-
-  /* 关键：让 nav 占据整行的剩余空间，避免 GreedyNav 误判空间不足 */
   #site-nav {
-    flex: 1 1 auto;                  /* 吃到剩余宽度 */
+    flex: 1 1 auto;                 /* nav 吃剩余宽度，避免 GreedyNav 误判 */
   }
-
-  /* 取消导航栏加粗，包括当前激活项 */
-.greedy-nav a,
-.greedy-nav .visible-links a,
-.greedy-nav .hidden-links a,
-.greedy-nav .visible-links a.active,
-.greedy-nav .visible-links a:focus,
-.greedy-nav .visible-links a:visited,
-.greedy-nav .visible-links a:link,
-.greedy-nav .visible-links a:active {
-  font-weight: normal !important;
-}
-  .site-title {
-    flex: 0 0 auto;                  /* 标题用它自己需要的宽度 */
+  #site-nav .visible-links {
+    white-space: nowrap;            /* 防止导航换行 */
   }
-
-  /* 可选：避免菜单项自己换行（一般不需要，但可保守加上） */
-  #site-nav .visible-links { white-space: nowrap; }
 }
 
-/* 取消导航菜单加粗 */
+/* 取消导航加粗（含激活态） */
+.masthead__menu-item a,
 .greedy-nav a,
 .greedy-nav .visible-links a,
 .greedy-nav .hidden-links a {
-  font-weight: normal !important;
+  font-weight: 400 !important;      /* 400=normal */
 }
 
-/* 调整导航间距 */
-.greedy-nav .visible-links li {
-  margin: 0 1.5rem; /* 左右间距一致 */
+/* 统一每个菜单项的基础间距 */
+#site-nav .visible-links > li {
+  margin: 0 1.5rem !important;
 }
 
-/* 让 Home 和 Research 之间距离更大 */
+/* 单独增大 “Home → Research” 的间距 */
+#site-nav .visible-links > li:first-of-type {
+  margin-left: 0 !important;
+  margin-right: 3.5rem !important;  /* 想更大就调这里，比如 4rem */
+}
+
+/* —— 重要：中和你之前“把第一个推到最右”的规则 —— */
+/* 你之前写过 .greedy-nav .visible-links li:first-child { margin-left:auto; } */
 .greedy-nav .visible-links li:first-child {
-  margin-right: 8rem; /* 增加 Home 与下一个导航项的间距 */
-}
-/* 单独增加 Home 和 Research 之间的间距 */
-.masthead__menu-item:first-child {
-  margin-right: 3rem; /* 这里调大间距 */
+  margin-left: 0 !important;
 }
