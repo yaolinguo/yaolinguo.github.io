@@ -399,3 +399,18 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+<style>
+@media (min-width: 900px) {
+  /* 锁住第一个导航(Home)位置 */
+  .masthead .greedy-nav .visible-links > li:first-child {
+    margin-left: 0 !important;
+  }
+
+  /* 从第二个导航项开始整体右移 */
+  .masthead .greedy-nav .visible-links > li:nth-child(2) {
+    margin-left: 3.5rem !important; /* 调整间距改这里 */
+  }
+}
+</style>
