@@ -27,10 +27,15 @@
   margin: 0 1.5rem !important;
 }
 
-/* 单独增大 “Home → Research” 的间距 */
-#site-nav .visible-links > li:first-of-type {
+
+/* 先确保 Home 不会被错误地推到最右（覆盖你之前可能写过的规则） */
+.masthead .greedy-nav .visible-links > li:first-child {
   margin-left: 0 !important;
-  margin-right: 3.5rem !important;  /* 想更大就调这里，比如 4rem */
+}
+
+/* 让“Home”与“Research”之间拉开，把其余整体右移 N 距离 */
+.masthead #site-nav .visible-links > li:nth-child(2) {
+  margin-left: 4rem !important;  /* ← 想要多远就改这个值：例如 3rem / 4rem / 56px */
 }
 
 /* 如果你之前写过“把第一个菜单推到最右”的规则，这里中和掉 */
