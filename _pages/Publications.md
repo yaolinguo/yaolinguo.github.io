@@ -30,10 +30,9 @@ layout: single
   <div style="margin: 0.5em 0;">
     <button class="btn toggle-abstract">ABSTRACT</button>
   </div>
-  <div class="abstract-box" style="display: none; font-size: 0.90em;">
+<div class="abstract-box" style="display: none; font-size: 0.90em; margin-top: 1em;">
     Latitudinal gradients in plant palatability traits can shape herbivore–plant interactions and ecosystem processes, yet invasive and native species may follow divergent trajectories due to differences in evolutionary history, genetic differentiation, and phenotypic plasticity. We integrated large-scale field surveys (125 populations) with a common garden experiment to compare 12 leaf palatability traits in the invasive <em>Spartina alterniflora</em> and the native <em>Phragmites australis</em> along China’s eastern coast (20–40° N). Field data revealed significant Species × Latitude interactions for 75 % of traits, indicating pervasive non-parallel clines. In the common garden, half of these traits retained non-parallel gradients, implicating genetic differentiation and genotype-specific plasticity. Partitioning environmental effects showed that <em>S. alterniflora</em>’s latitudinal clines were driven predominantly (92 %) by phenotypic plasticity, whereas <em>P. australis</em> relied mainly on fixed genetic baselines. Divergent responses to temperature, precipitation, and herbivory further explained the non-parallelism. These findings provide a mechanistic framework linking environmental heterogeneity, plasticity, and genetic variation to invasion success under global change.
   </div>
-
 
 
 <div style="line-height: 1.25; margin-bottom: 1.5em;">
