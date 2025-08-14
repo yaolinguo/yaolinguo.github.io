@@ -7,13 +7,30 @@
     gap: 1.25rem;          /* 标题与导航之间留一点间距，可调 */
   }
 
-  /* 把 nav 推到右侧 */
-  #site-nav {
-    margin-left: auto;     /* 关键：把导航挤到最右边 */
-  }
-
   /* 可选：确保导航一行不换行（通常不需要） */
   #site-nav .visible-links {
     white-space: nowrap;
   }
+}
+
+/* 桌面端：标题在左，导航在右；同时给 nav 足够的可用宽度 */
+@media (min-width: 900px) {
+  .masthead__inner-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  /* 关键：两端对齐 */
+    gap: 1rem;                       /* 视需求可调 0.5–1.5rem */
+  }
+
+  /* 关键：让 nav 占据整行的剩余空间，避免 GreedyNav 误判空间不足 */
+  #site-nav {
+    flex: 1 1 auto;                  /* 吃到剩余宽度 */
+  }
+
+  .site-title {
+    flex: 0 0 auto;                  /* 标题用它自己需要的宽度 */
+  }
+
+  /* 可选：避免菜单项自己换行（一般不需要，但可保守加上） */
+  #site-nav .visible-links { white-space: nowrap; }
 }
