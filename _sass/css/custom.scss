@@ -45,3 +45,32 @@ p, li, blockquote {
   text-decoration: none;
   color: inherit;
 }
+
+/* —— 标题排版清理 —— */
+.navbar-brand, .site-title {
+  display: flex !important;
+  align-items: baseline;
+  gap: .5rem;
+  white-space: nowrap;          /* 防止“Yaolin Guo PhD”在中间断行 */
+  font-weight: 600;
+}
+
+.brand-name { letter-spacing: .2px; }
+
+/* 学位做成小徽标，弱化但不消失 */
+.brand-badge{
+  font-size: .75rem;
+  line-height: 1;
+  padding: .15rem .45rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  opacity: .75;
+}
+
+/* 窄屏自适应 */
+@media (max-width: 576px){
+  .navbar-brand, .site-title { font-size: 1rem; }
+  .brand-badge{ font-size: .65rem; padding: .1rem .35rem; }
+}
