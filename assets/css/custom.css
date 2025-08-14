@@ -34,3 +34,11 @@
   /* 可选：避免菜单项自己换行（一般不需要，但可保守加上） */
   #site-nav .visible-links { white-space: nowrap; }
 }
+
+/* 取消导航菜单加粗 */
+.greedy-nav a,
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a {
+  font-weight: normal !important;
+}
+
