@@ -84,3 +84,16 @@ p, li, blockquote {
   .navbar-brand, .site-title { font-size: 1rem; }
   .brand-badge { font-size: .65rem; padding: .1rem .35rem; }
 }
+
+/* ====== 桌面端强制展开，手机端保持默认 ====== */
+@media screen and (min-width: 768px) {
+  .greedy-nav .hidden-links {
+    display: flex !important;
+  }
+  .greedy-nav .hidden-links li {
+    display: list-item !important;
+  }
+  .greedy-nav button {
+    display: none !important;
+  }
+}
