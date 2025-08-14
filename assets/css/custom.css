@@ -13,6 +13,11 @@
   }
 }
 
+/* 让 Research 靠右 */
+.greedy-nav .visible-links li:first-child {
+  margin-left: auto;
+}
+
 /* 桌面端：标题在左，导航在右；同时给 nav 足够的可用宽度 */
 @media (min-width: 900px) {
   .masthead__inner-wrap {
