@@ -1,6 +1,19 @@
-/* 让页面主标题（Research）与正文内容左边界对齐 */
-@media (min-width: 900px) {            /* 只在桌面端生效，移动端保持默认 */
-  .layout--single .page .page__title {
-    padding-left: 19rem;               /* 先用 19rem，按实际视觉 18–22rem 微调 */
+/* 桌面端：标题与导航同一行，导航靠右 */
+@media (min-width: 900px) {
+  /* 让标题和导航成为一个横向 flex 容器 */
+  .masthead__inner-wrap {
+    display: flex;
+    align-items: center;   /* 垂直对齐基线 */
+    gap: 1.25rem;          /* 标题与导航之间留一点间距，可调 */
+  }
+
+  /* 把 nav 推到右侧 */
+  #site-nav {
+    margin-left: auto;     /* 关键：把导航挤到最右边 */
+  }
+
+  /* 可选：确保导航一行不换行（通常不需要） */
+  #site-nav .visible-links {
+    white-space: nowrap;
   }
 }
