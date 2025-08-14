@@ -19,3 +19,26 @@
 <!-- end custom head snippets -->
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=6' | relative_url }}">
+
+<!-- NAV FIX: keep HOME on the left; move the rest to the right -->
+<style id="nav-fix">
+  @media (min-width: 900px) {
+    /* 防止 Home 被错误推到最右 */
+    .masthead .greedy-nav .visible-links > li:first-child {
+      margin-left: 0 !important;
+    }
+
+    /* 让「Home」与「Research」之间拉开，从而把其余导航整体右移 */
+    .masthead .greedy-nav .visible-links > li:nth-child(2) {
+      margin-left: 3.5rem !important; /* 想移动更多/更少，改这个值，例如 4rem / 56px */
+    }
+
+    /*（可选）去掉导航加粗，保持一致的字重 */
+    .masthead .greedy-nav a {
+      font-weight: 400 !important;
+    }
+
+    /*（可选）若想统一项目间距，可以启用下面这一行 */
+    /* .masthead .greedy-nav .visible-links > li { margin: 0 1.6rem !important; } */
+  }
+</style>
