@@ -58,3 +58,12 @@
   font-weight: normal !important;
 }
 
+/* 调整导航间距 */
+.greedy-nav .visible-links li {
+  margin: 0 1.5rem; /* 左右间距一致 */
+}
+
+/* 第一个导航项（Home）和左边的标题保持一样的间距 */
+.greedy-nav .visible-links li:first-child {
+  margin-left: 2rem;
+}
