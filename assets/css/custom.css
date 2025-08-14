@@ -63,6 +63,10 @@
   margin: 0 1.5rem; /* 左右间距一致 */
 }
 
+/* 让 Home 和 Research 之间距离更大 */
+.greedy-nav .visible-links li:first-child {
+  margin-right: 8rem; /* 增加 Home 与下一个导航项的间距 */
+}
 /* 第一个导航项（Home）和左边的标题保持一样的间距 */
 .greedy-nav .visible-links li:first-child {
   margin-left: 2rem;
