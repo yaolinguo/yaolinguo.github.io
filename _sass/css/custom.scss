@@ -79,3 +79,21 @@ p, li, blockquote {
   .navbar-brand, .site-title { font-size: 1rem; }
   .brand-badge { font-size: .65rem; padding: .1rem .35rem; }
 }
+
+
+/* 保证样式不会被覆盖 */
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.greedy-nav .hidden-links li {
+  display: list-item !important;
+}
+
+.greedy-nav button {
+  display: none !important;
+}
