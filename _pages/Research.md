@@ -33,6 +33,11 @@ Biological invasions
 
 <hr style="border: none; border-top: 1px solid #ccc; margin: 1.5em 0;" />
 
+I uncover the mechanisms that enable non‑native plants to establish, spread, and reshape ecosystems, with herbivory as a central driver of invasion success. By integrating field herbivore‑exclusion and feeding‑guild manipulations with replicated common‑garden assays and global syntheses of traits, interactions, and phylogeny, I quantify growth–defense trade‑offs, compensatory responses, and phenotypic plasticity across nutrient, disturbance, and climate gradients. Hierarchical Bayesian, network, and demographic models link herbivore pressure (guild, intensity, seasonality) to invader performance, competitive outcomes with natives, and ecosystem effects. Testing enemy release versus biotic resistance—and identifying cases of associational effects or apparent competition—reveals when consumers suppress invaders (biocontrol potential) or inadvertently facilitate them. The aim is to deliver predictive, mechanistic forecasts of invasion risk under warming and sea‑level rise that guide evidence‑based management and restoration.
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/85250b19-c293-4ae9-929d-3f87d644143c" />
+
+
 <div style="text-align: center; font-weight: bold; font-size: 1.2em; margin-top: 1em; margin-bottom: 0.8em;">
 Coastal wetland ecosystem
 </div>
