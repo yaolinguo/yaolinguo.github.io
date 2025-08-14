@@ -10,9 +10,9 @@ p, li, blockquote {
 
 /* ======= 容器居中 ======= */
 .masthead__inner-wrap {
-  max-width: 1200px;   /* 和正文同宽 */
-  margin: 0 auto;      /* 居中 */
-  padding: 0 2rem;     /* 内边距，防止贴边 */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
 }
 
 .page__content {
@@ -21,14 +21,13 @@ p, li, blockquote {
   padding: 0 2rem;
 }
 
-/* ======= 导航栏布局 ======= */
+/* ======= 导航栏基础布局 ======= */
 .greedy-nav {
   display: flex !important;
   align-items: center !important;
   flex-wrap: nowrap !important;
 }
 
-/* 永远显示所有菜单项 */
 .greedy-nav .visible-links {
   display: flex !important;
   flex-wrap: nowrap !important;
@@ -36,17 +35,24 @@ p, li, blockquote {
   gap: 1.5rem;
 }
 
-.greedy-nav .hidden-links {
-  display: flex !important; /* 强制显示隐藏菜单 */
+/* ======= 桌面端：展开菜单，隐藏汉堡 ======= */
+@media screen and (min-width: 768px) {
+  .greedy-nav .hidden-links {
+    display: flex !important;
+  }
+  .greedy-nav .hidden-links li {
+    display: list-item !important;
+  }
+  .greedy-nav button {
+    display: none !important;
+  }
 }
 
-.greedy-nav .hidden-links li {
-  display: list-item !important;
-}
-
-/* 隐藏三条杠按钮 */
-.greedy-nav button {
-  display: none !important;
+/* ======= 手机端：保持默认（汉堡按钮可用） ======= */
+@media screen and (max-width: 767px) {
+  .greedy-nav .hidden-links {
+    display: none !important;
+  }
 }
 
 /* ======= 标题排版 ======= */
@@ -54,7 +60,7 @@ p, li, blockquote {
   display: flex !important;
   align-items: baseline;
   gap: .5rem;
-  white-space: nowrap; /* 防止断行 */
+  white-space: nowrap;
   font-weight: 600;
 }
 
@@ -62,7 +68,6 @@ p, li, blockquote {
   letter-spacing: .2px;
 }
 
-/* 学位徽标 */
 .brand-badge {
   font-size: .75rem;
   line-height: 1;
@@ -74,26 +79,8 @@ p, li, blockquote {
   opacity: .75;
 }
 
-/* 窄屏自适应 */
-@media (max-width: 576px){
+/* 窄屏自适应标题 */
+@media (max-width: 576px) {
   .navbar-brand, .site-title { font-size: 1rem; }
   .brand-badge { font-size: .65rem; padding: .1rem .35rem; }
-}
-
-
-/* 保证样式不会被覆盖 */
-.greedy-nav .visible-links,
-.greedy-nav .hidden-links {
-  display: flex !important;
-  flex-wrap: nowrap !important;
-  align-items: center;
-  gap: 1.5rem;
-}
-
-.greedy-nav .hidden-links li {
-  display: list-item !important;
-}
-
-.greedy-nav button {
-  display: none !important;
 }
