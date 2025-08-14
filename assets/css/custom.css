@@ -67,7 +67,7 @@
 .greedy-nav .visible-links li:first-child {
   margin-right: 8rem; /* 增加 Home 与下一个导航项的间距 */
 }
-/* 第一个导航项（Home）和左边的标题保持一样的间距 */
-.greedy-nav .visible-links li:first-child {
-  margin-left: 2rem;
+/* 单独增加 Home 和 Research 之间的间距 */
+.masthead__menu-item:first-child {
+  margin-right: 3rem; /* 这里调大间距 */
 }
