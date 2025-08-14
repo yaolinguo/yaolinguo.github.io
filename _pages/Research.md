@@ -44,5 +44,8 @@ Coastal wetland ecosystem
 
 <hr style="border: none; border-top: 1px solid #ccc; margin: 1.5em 0;" />
 
+Coastal wetlands face urgent threats; I study how biological invasions—and herbivory as a key pathway—reshape ecosystem stability and resilience, and how targeted restoration can recover lost functions. I integrate long‑term monitoring with manipulative field experiments, common‑garden/mesocosm assays across salinity and inundation gradients. Using trait‑based ecology, interaction‑network analyses, and hierarchical Bayesian models, I quantify how invaders and consumer pressure alter productivity, nutrient cycling, soil strength, blue‑carbon storage, and community structure. I measure stability (resistance, variability, persistence) and resilience (recovery rates, hysteresis) and apply early‑warning indicators to diagnose tipping‑point risks under sea‑level rise, salinity intrusion, eutrophication, and extreme events.
+
+<img width="1920" height="864" alt="image" src="https://github.com/user-attachments/assets/666cc25a-7d3a-447d-a586-c195e010be67" />
 
 
