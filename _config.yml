@@ -25,7 +25,7 @@ repository               : "yaolinguo/yaolinguo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 
 author:
-  avatar           : "https://yaolinguo.github.io/images/yaolinguo2.jpg"
+  avatar           : "https://yaolinguo.github.io/images/yaolinguo.jpg"
   name             : "Yaolin Guo"
   pronouns         : "he/him"  
   bio              : ""
@@ -33,18 +33,14 @@ author:
   email            : "yguo@agcenter.lsu.edu" 
   googlescholar    : "https://scholar.google.com/citations?user=b0lIvfcAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Yaolin-Guo-2"
-  twitter          : # Username for X / Twitter
   orcid            : "https://orcid.org/0000-0002-2203-1970"
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL - Update with the correct link to your profil
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
