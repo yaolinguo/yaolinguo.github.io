@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yaolin Guo PhD"
+title                    : "Yaolin Guo Ph.D."
 custom_css:
   - /assets/css/custom.css
 title_separator          : "-"
@@ -26,8 +26,8 @@ repository               : "yaolinguo/yaolinguo.github.io"
 
 author:
   avatar           : "https://yaolinguo.github.io/images/yaolinguo.jpg"
-  name             : "Yaolin Guo"
-  pronouns         : "he/him"  
+  name             : "Yaolin Guo (he/him)"
+  pronouns         : ""  
   bio              : ""
   location         : "Baton Rouge, LA"
   email            : "yguo@agcenter.lsu.edu" 
