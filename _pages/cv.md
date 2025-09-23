@@ -1,9 +1,8 @@
 ---
-layout: page
-title: "CV"
 permalink: /cv/
+title: "CV"
 author_profile: true
-toc: true
+layout: single
 ---
 
 # Yaolin Guo, Ph.D.
