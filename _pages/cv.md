@@ -23,7 +23,7 @@ layout: single
 - **2022** — Guo, Y. *Geographic variation of litter chemistry and palatability in an invasive plant versus its native competitor.* **Poster.** **34th Plant Population Biology Conference**, Bozen–Bolzano, Italy.
 - **2020** — Guo, Y. *Latitudinal gradient of plant–arthropod interactions.* **Oral presentation.** **4th International Conference on Global Change and Biological Invasion**, Zhenjiang, China.
 - **2020** — Guo, Y. *Restoration of native saltmarshes can reverse the changes in arthropod assemblages and trophic interactions resulting from* *Spartina alterniflora* *invasion.* **Oral presentation.** **Young Researchers Forum, Key Laboratory of Biodiversity Sciences and Ecological Engineering (MOE)**, Shanghai, China.
-- **2019** — Guo, Y. *Latitudinal variations in traits related to plant–detritivore interactions in Chinese coastal wetlands: a comparison of invasive versus native plants.* **1st Biogeography Conference of China**, Peking University, Beijing, China.
+- **2019** — Guo, Y. *Latitudinal variations in traits related to plant–detritivore interactions in Chinese coastal wetlands: a comparison of invasive versus native plants.* ***Oral presentation.** **1st Biogeography Conference of China**, Peking University, Beijing, China.
 
 ---
 
@@ -67,4 +67,4 @@ layout: single
 - Metabolomics analysis
 
 ### Programming & Tools
-- **R**, **Stan**, **Python**, **LaTeX**, **Git**, **ArcGIS**
+- R, Stan, Python, LaTeX, Git, ArcGIS
