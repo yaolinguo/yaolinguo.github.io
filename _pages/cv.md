@@ -1,11 +1,9 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Yaolin Guo, Ph.D."
 author_profile: true
 layout: single
 ---
-
-# Yaolin Guo, Ph.D.
 
 ## Education & Scientific Career
 - **2024–present** — *Postdoctoral Researcher in Ecology*, **Louisiana State University Agricultural Center**, Baton Rouge, LA.
