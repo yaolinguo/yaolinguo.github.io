@@ -9,7 +9,7 @@ layout: single
 
 ## Education & Scientific Career
 - **2024–present** — *Postdoctoral Researcher in Ecology*, **Louisiana State University Agricultural Center**, Baton Rouge, LA.
-- **2017–2024** — *Ph.D. in Ecology* (cotutelle program)  
+- **2017–2024** — *Ph.D. in Ecology* (cotutelle program， joint supervision)  
   **Fudan University**, Shanghai, China (home institution)  
   **University of Tübingen**, Tübingen, Germany (partner institution).
 - **2012–2016** — *B.Sc. in Chemistry*, **Shanxi University**, Taiyuan, China.
