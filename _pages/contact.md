@@ -7,7 +7,5 @@ redirect_from:
   - /contact.html
 ---
 
-**Email:** <a href="mailto:you@university.edu">you@university.edu</a>  
-**Office:** Room 123, Building, University  
-**Google Scholar:** <https://scholar.google.com/citations?user=...>  
-**ORCID:** <https://orcid.org/....>
+**Email:** yguo@agcenter.lsu.edu
+**Address:** School of Renewable Natural Resources, Louisiana State University, Baton Rouge, LA 70803
