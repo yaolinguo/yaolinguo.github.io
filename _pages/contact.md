@@ -6,8 +6,7 @@ author_profile: true    # 需要时在侧边栏显示个人资料与社交链接
 redirect_from:
   - /contact.html
 ---
-
-
+<br>
 **Email:** yguo@agcenter.lsu.edu
 
 **Address:** School of Renewable Natural Resources, Louisiana State University, Baton Rouge, LA 70803
